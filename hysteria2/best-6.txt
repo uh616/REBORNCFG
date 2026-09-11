@@ -1,3 +1,6 @@
+hy2://28c05d48e2f470d07a4c392c9bd43849@[2a0d:5940:44:301::]:443?sni=jostar-data.nl#🔒
+hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2a0e:6a80:3:38c:0:1:2ef0:ff2a]:25002?insecure=1&sni=www.bing.com#🔒
+hy2://6d853bb9@[2a0e:dc0:5:2264:a:b:220e:a5c9]:61631?insecure=1&sni=2a0e:dc0:5:2264:a:b:220e:a5c9#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2a0f:5707:aaf1:122d:0:1:2b27:ef20]:25002?insecure=1&sni=www.bing.com#🔒
 hy2://8b2693fb-8739-46bd-b184-5e7c1778c597@[2a11:840:67:1b::f4c2:ccfa]:81?insecure=1#🔒
 hy2://cef1e7a47565b431@[2a12:5940:42c5::2]:443/?insecure=1&sni=%45%4C%69%56%32%72%61%79.Elena.expert&obfs=salamander&obfs-password=2c5ef5135559d4f5#🇸🇪-@Free_V2rng
@@ -11,7 +14,7 @@ hysteria2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443?insecure=1&sni
 hysteria2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443/?insecure=1&sni=crt.ultimagamest.com#%3E%3E%40oneclickvpnkeys%3A%3APL
 hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@31.76.30.97:443/?insecure=1&sni=fast.wwwinternetvideo.click#%3E%3E%40oneclickvpnkeys%3A%3AFI
 hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@31.76.71.63:443?insecure=1&sni=cabinet.wwwinternetvideo.click#%F0%9F%8E%A161%40oneclickvpnkeys
-hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@31.76.71.63:443/?insecure=1&sni=cabinet.wwwinternetvideo.click#
+hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@31.76.71.63:443/?insecure=1&sni=cabinet.wwwinternetvideo.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20733264
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#%E2%9C%85%20%20%40vistav2ray%20%20%F0%9F%91%88%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%E2%9C%85
 hy2://maniubi114514@34.92.152.163:11451?insecure=1&sni=www.bing.com#🔒
 hy2://maniubi114514@34.92.152.163:11451/?insecure=1&sni=www.bing.com#%E2%84%B9%EF%B8%8F7%40oneclickvpnkeys
@@ -103,10 +106,6 @@ hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@47.74.42.113:6588?obfs=salamander&obf
 hy2://sysadmin.sysadmin@47.76.80.29:2023?insecure=1#🔒
 hy2://sysadmin.sysadmin@47.81.8.60:7788?insecure=1&sni=tg.sdxlgj001.top#🔒
 hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@47.89.248.125:5113?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#🔒
-hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=www.linux.com#%E9%98%B2%E5%A4%B1%E6%95%88github+SubCrawler%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_091110172
+hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=www.linux.com#%E9%98%B2%E5%A4%B1%E6%95%88github+SubCrawler%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_091117182
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@5.35.103.44:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA5
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@5.35.103.66:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA4
-hy2://4733f66a-4326-4046-b7b0-fc3f55c15283@5.39.252.182:3898?obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#🔒
-hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@5.39.254.34:5128?obfs=salamander&obfs-password=ZTg1ZWVjNjAxZmRlNGI5MA%3D%3D&insecure=1#🔒
-hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@5.83.129.11:443/?insecure=1&sni=germany1.h2corp.local#%3E%3E%40oneclickvpnkeys%3A%3ADE
-hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?insecure=1&sni=sni-here.com&obfs=salamander&obfs-password=HysteriaHowdy#%F0%9F%94%A53%40oneclickvpnkeys
