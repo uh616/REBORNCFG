@@ -1,9 +1,3 @@
-trojan://40ea99d6-b2f2-4a00-8f61-c8d8fdaa25b9@104.21.38.163:443/?type=tcp&security=tls&sni=kdlsupport.zendesk.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2878%29
-trojan://41bec492-cd79-4b57-9a15-7d2bb00fcfca@217.79.184.76:443/?type=tcp&security=tls&sni=18-140-66-207.nhost.00cdn.com&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29%20%286%29
-trojan://4467ae8518abf1ef321618c0bfb5549ccc@188.240.213.45:20071/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1#
-trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@jp.mjt001.com:443/?type=tcp&security=tls&sni=jp.mjt001.com#
-trojan://45d5c2fa-58f7-4f2a-811b-c44cc51e8668@190.93.247.155:443/?type=ws&host=is2.trojanvpn.xyz&path=%2F&security=tls&sni=is2.trojanvpn.xyz#
-trojan://4646@173.245.58.57:8443/?type=tcp&security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.moket12807.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28241%29
 trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@us004.421421.xyz:20230/?type=tcp&security=tls&sni=421421.xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443/?type=ws&host=bangladeshipatri.com&path=6b777a91%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&security=tls&sni=bangladeshipatri.com&alpn=http%2F1.1&fp=safari#
 trojan://4732adfa16c6450bbef87264e41332db@104.17.147.4:443/?type=tcp&security=tls&sni=jobscareertoday.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28196%29
@@ -538,3 +532,10 @@ trojan://blue2024@104.21.56.71:443/?type=tcp&security=tls&sni=tb.promote.icu#%F0
 trojan://blue2024@104.21.64.1:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@104.21.66.241:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@104.21.80.1:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://blue2024@104.21.96.1:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://blue2024@104.21.97.119:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://blue2024@104.21.97.149:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://blue2024@104.22.37.243:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://blue2024@104.22.9.213:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://blue2024@104.23.113.250:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://blue2024@104.23.137.108:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
