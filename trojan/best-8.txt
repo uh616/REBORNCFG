@@ -7,7 +7,6 @@ trojan://5041df4c-b3ae-481d-adf9-79b39f4810f2@172.67.148.211:2083/?type=tcp&secu
 trojan://509ed9b7-8d64-4204-8ec8-6b749020ac3f@104.21.3.189:443/?type=tcp&security=tls&sni=CcCVfGTyU.89060004.Xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28167%29
 trojan://50e10abd-3920-42a6-ad0c-6ec731d8c826@104.16.133.220:443/?type=tcp&security=tls&sni=golinkwuxian.top&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://512d9674-db12-44ca-a1b5-654244549b65@172.66.132.196:443/?type=tcp&security=tls&sni=XxCdvfgty.444652.xyZ#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28111%29
-trojan://51oeqnj11lq5mljn@uwu.blueknightnet.qzz.io:2087?allowInsecure=0&sni=uwu.dianaw.cc.cd&alpn=h2&type=ws&path=/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net#%F0%9F%87%A9%F0%9F%87%AADE_5%7C3.0MB/s
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443/?type=tcp&security=tls&sni=hdfyc1.achaemenidempireofpersia.uk#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28238%29
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443/?type=tcp&security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://53027f0f-2581-469a-a802-825d46f37cda@104.18.124.198:443/?type=tcp&security=tls&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28104%29
@@ -529,3 +528,5 @@ trojan://blue2024@104.27.98.104:443/?type=tcp&security=tls&sni=ta.promote.icu&al
 trojan://blue2024@108.162.195.110:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@108.162.195.135:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@108.162.198.150:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://blue2024@108.165.216.212:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+trojan://blue2024@14.102.229.63:443/?type=tcp&security=tls&sni=b.promote.icu#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
