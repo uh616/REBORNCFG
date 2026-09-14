@@ -115,7 +115,7 @@ trojan://XG59623478@stirring-dane.rooster465.autos:443?security=tls&sni=stirring
 trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@sub.xiaohouzi.club:16011?security=tls&sni=$$azhk095.xiaohouzi.club#⚡
 trojan://v2whz6ahmyy2f84j@subtu.charsoulink3.ir:2087?security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pus.mmdaqaorg2.ir#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%B7%20TR-1752
 trojan://FH72359861@summary-firefly.rooster465.autos:443?security=tls#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AA%20IE-54
-trojan://dd04c158-1bac-47cd-99c1-5c4f64796dd5@supersouth.xn--mesv7f5toqlp.club:12004?security=tls#%F0%9F%8F%81RELAY-172.67.197.47-0348
+trojan://dd04c158-1bac-47cd-99c1-5c4f64796dd5@supersouth.xn--mesv7f5toqlp.club:12004?security=tls#4FreeIran-3e2d72eee7
 trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@supsig.xiaohouzi.club:10102?security=tls#
 trojan://ND91608427@sure-humpback.rooster465.autos:443?security=tls#⚡
 trojan://NQ26071394@sure-husky.rooster465.autos:443?security=tls#4FreeIran-bf88d1d044
@@ -161,7 +161,6 @@ trojan://!d8jYnLU
 trojan://$_qP4V4U26sb%7B04A@172.66.44.115:2083/?type=tcp&security=tls&sni=do-itfORYOU.PAGEs.deV#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28207%29
 trojan://$Iu_sL4k*u,9@185.143.235.201:2096/?type=tcp&security=tls&sni=anten.ir#%F0%9F%87%AE%F0%9F%87%B7IR%28AzadNet.t.me%29%20%289%29
 trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.47.83:443/?type=ws&host=JoinmAhDiSeRvER-csn.PaGeS.DEv&security=tls&sni=JoinmAhDiSeRvER-csn.PaGeS.DEv#
-trojan://%4D%69%54%69%56%50%4E@199.232.78.101:443?path=/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/NLSus---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#
 trojan://---------------BanV2ray-------------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:13349?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=2T8W7086SiTW3viiVVNeZCTZjiJ-d8f6LsSSJZ_iM2o&fp=chrome&type=grpc&sni=yahoo.com&sid=6b#
 trojan://---------------BanV2ray-------------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:1404?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=2T8W7086SiTW3viiVVNeZCTZjiJ-d8f6LsSSJZ_iM2o&fp=chrome&type=grpc&sni=yahoo.com&sid=8120#
 trojan://---------------BanV2ray-------------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:1846?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=2T8W7086SiTW3viiVVNeZCTZjiJ-d8f6LsSSJZ_iM2o&fp=chrome&type=grpc&sni=yahoo.com&sid=22c523#
