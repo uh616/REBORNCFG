@@ -1,3 +1,5 @@
+trojan://blue2024@162.159.44.161:443/?type=tcp&security=tls&sni=tc.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://blue2024@162.159.44.188:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@162.159.44.194:443/?type=tcp&security=tls&sni=tc.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@162.159.9.72:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@164.38.155.188:443/?type=tcp&security=tls&sni=b.promote.icu#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29
@@ -243,6 +245,7 @@ trojan://dns68@104.21.92.73:443/?type=tcp&security=tls&sni=trojan.putata.us.kg#%
 trojan://dreDeMpIQpnv@104.21.44.185:2053/?type=tcp&security=tls&sni=aryanews.onetwothree123.ir#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28125%29
 trojan://dTaXAtuoQF@185.143.235.200:443/?type=tcp&security=tls&sni=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir#%F0%9F%87%AE%F0%9F%87%B7IR%28AzadNet.t.me%29%20%287%29
 trojan://dVqpmoYvWGuP@104.21.54.208:2087/?type=tcp&security=tls&sni=leader.andishehnegariran.ir#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28187%29
+trojan://e016d072-ed97-40d4-a83f-04c00f8df2a5@13.250.28.5:44370?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&host=%2Fmade_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=c9672c5ded53a018#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-3143
 trojan://e1c12e6f-a555-4ff8-b071-1e09dd5d91e6@94.23.78.106:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%B5%F0%9F%87%B9PT%28AzadNet.t.me%29
 trojan://e30dbfd0-f15a-11ed-9080-1239d0255272@51.159.59.186:443/?type=tcp&security=tls&sni=fr.test3.net&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29%20%289%29
 trojan://e4cbe8b8-37db-4aaa-8469-b84f34c51ebc@104.21.14.54:443/?type=tcp&security=tls&sni=6666YHjU.777159.xYz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2865%29
@@ -298,6 +301,7 @@ trojan://HdsUZmsHQW@148.113.141.99:443/?type=tcp&security=tls&allowInsecure=1#%F
 trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443/?type=ws&host=uk1.bw8848.org&path=%2Fuk1-uk1-gcjtze&security=tls&sni=uk1.bw8848.org#%E2%9A%AA%20%281%29
 trojan://Hpphpp1992%40hph@172.66.46.250:443/?type=tcp&security=tls&sni=HPHBpb.PaGeS.Dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28193%29
 trojan://hSA6YXe15O@104.11.86.252:443?security=tls&amp;sni=Telegram������������+@WangCai2&amp;insecure=1&amp;allowInsecure=1&amp;type=tcp&amp;headerType=none#📡🇺🇸®️🆔[t.me/WEBHUBE👉MCI
+trojan://humanity@#@AR14N24b
 trojan://humanity@104.16.117.43:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#CA-%3E%2B%28%40DeamNet_Proxy%29%20%282%29
 trojan://humanity@104.16.123.96:443/?type=tcp&security=tls&sni=www.gossipglove.com&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28231%29
 trojan://humanity@104.16.124.96:443/?type=tcp&security=tls&sni=www.gossipglove.com&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28237%29
@@ -409,6 +413,7 @@ trojan://humanity@172.67.155.199:443/?type=ws&host=www.calmloud.com&path=%2Fassi
 trojan://humanity@172.67.180.92:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&fp=chrome#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2813%29
 trojan://humanity@185.18.250.245:443/?type=tcp&security=tls&sni=www.calmlunch.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil%20%2814%29
 trojan://humanity@185.18.250.252:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&allowInsecure=1#%40nekopingbot_5821
+trojan://humanity@185.225.68.232:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷[openproxylist.com]
 trojan://humanity@185.231.112.217:40443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#%40fastkanfig%20%287%29
 trojan://humanity@188.114.96.3:443/?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&allowInsecure=1#EPODONIOS
 trojan://humanity@188.114.96.3:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#%40armindone%F0%9F%91%88%DA%86%D9%86%D9%84
@@ -464,6 +469,7 @@ trojan://hwiyBDgN65hGmiwxPcfMUA@b2n.ir:443/?type=tcp&security=tls&allowInsecure=
 trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443/?type=tcp&security=tls&sni=fra34.tracker-ws.click#%F0%9F%87%A9%F0%9F%87%AADE-91.233.8.25-0218
 trojan://I4bO2YDEgs@188.166.252.91:443/?type=tcp&security=tls&sni=aka.ms&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29%20%2811%29
 trojan://IQYD1kSiuYJW@172.67.142.21:2087/?type=tcp&security=tls&sni=leader.andishehnegariran.ir#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28124%29
+trojan://j8HSz13mcSpcbzQD-jxhNt3T99NLzgMB@nl4.275.axolab.org:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-12305
 trojan://jagoanssh-Aweqdcc@104.21.32.17:443/?type=tcp&security=tls&sni=to.ruangguru.com&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28213%29
 trojan://Jncm1NRGbZ@172.67.175.243:8443/?type=tcp&security=tls&sni=frankfoortvip.followprovider.ir#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://JsheihIhuy-7-282+2+@172.66.44.253:2087/?type=tcp&security=tls&sni=NET-ACcOunt02.PaGeS.deV#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2887%29
@@ -519,7 +525,6 @@ trojan://mitivpn@151.101.56.6:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@Mi
 trojan://MiTiVPN@151.101.56.7:443/?type=ws&host=s1z-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e1%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=default.fastly.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%28113%29
 trojan://MITIVPN@151.101.56.7:443?alpn=http/1.1&fp=chrome&host=mitivpn---ss--s---mitivpn-22s.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&sni=ssl.fastly.com&type=ws#EPODONIOS
 trojan://MITIVPN@151.101.56.7:443?alpn=http/1.1&fp=chrome&host=mitivpn---ss--s---mitivpn-22s.global.ssl.fastly.net&path=@mehrosaboran&sni=ssl.fastly.com&type=ws#EPODONIOS
-trojan://MiTiVPN@151.101.56.7:443?host=mitivpn---ss--s---mitivpn-22.global.ssl.fastly.net&path=---@bored_vpn&sni=ssl.fastly.com&type=ws#EPODONIOS
 trojan://MiTiVPN@151.101.56.7:443?path=---@bored_vpn&amp;security=tls&amp;alpn=http/1.1&amp;insecure=0&amp;host=mitivpn---ss--s---mitivpn-22.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@bored_vpn
 trojan://MiTiVPN@151.101.56.7:443?path=---@bored_vpn&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-22.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 trojan://MiTiVPN@151.101.56.7:443?path=---@mehrosaboran&amp;security=tls&amp;alpn=http/1.1&amp;insecure=0&amp;host=mitivpn---ss--s---mitivpn-22.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#🇩🇪@FreakConfig
@@ -533,7 +538,3 @@ trojan://MiTiVPN@151.101.56.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@Mi
 trojan://MiTiVPN@151.101.56.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&amp;security=tls&amp;alpn=http/1.1&amp;insecure=0&amp;host=mitivpn-mitivpn-mitivpn-bb-mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#🇩🇪@FreakConfig
 trojan://MiTiVPN@151.101.56.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&amp;security=tls&amp;host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&amp;type=ws&amp;sni=ssl.fastly.com#@v2raying
 trojan://MiTiVPN@151.101.56.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&amp;security=tls&amp;insecure=0&amp;host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#Free
-trojan://MiTiVPN@151.101.56.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=mitivpn---ss--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#EPODONIOS
-trojan://MITIVPN@151.101.56.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=mitivpn---ss--s---mitivpn-22s.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#🔥Join+Telegram:@Farah_VPN🟣
-trojan://MiTiVPN@151.101.56.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#EPODONIOS
-trojan://MiTiVPN@151.101.56.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=mitivpn-mitivpn-mitivpn-bb-mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#EPODONIOS
