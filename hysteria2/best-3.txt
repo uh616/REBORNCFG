@@ -4,7 +4,7 @@ hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@149.130.210.148:30102?insecure=1&sni=
 hy2://c5110090-c3a2-429e-b9b8-072b6535be1b@149.28.71.141:8080?sni=jp1.trojanws.xyz#🔒
 hysteria2://de08f485-8f8c-4316-9e80-6e7ecdf91d45@14in.prometheusnet01.xyz:24149?insecure=1&obfs=none&mport=21000-26000&fastopen=1#🆔freev2rayi%20🔒%20HY2-UDP-N/A%20🇮🇳%20IN%20down
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.122.197:443?insecure=1&sni=t.me#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20383598
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.122.197:443/?insecure=1&sni=t.me#
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.122.197:443/?insecure=1&sni=t.me#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20610260
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.183.81:443?insecure=1&sni=t.me#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20214285
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.183.81:443/?insecure=1&sni=t.me#%3E%3E%40oneclickvpnkeys%3A%3ACA
 hysteria2://9cfc9458e48c028ec03ff86ebc71c744@150-230-252-217.liao.kdns.fr:50160?sni=127.0.0.1#4FreeIran-7a17937ab2
@@ -77,7 +77,7 @@ hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@159.13.34.59:443?insecure=1&sni=www.b
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20993115
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443/?insecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=127.0.0.1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20806318
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443/?insecure=1&sni=vpn-tw-002.fastervpn.world#
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443/?insecure=1&sni=vpn-tw-002.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20948598
 hysteria2://1027576c-c4df-4277-b3ef-38d3213b6574@161.118.253.238:443?insecure=1&sni=www.bing.com#%E5%8D%B0%E5%BA%A6_092006017
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?insecure=0&sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#%40filembad
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.2:8443?insecure=1&sni=hopp-germany-new.ddnsguru.com#4Sarina-f58b4604fb
