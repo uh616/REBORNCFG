@@ -1,4 +1,3 @@
-hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@132.226.0.78:30075?insecure=1&sni=www.bing.com#🔒
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@132.226.162.10:30102?insecure=1&sni=br3.wish.ml#🔒
 hy2://8ea05545-2dc7-4487-8005-b7d581169945@132.226.208.232:55215?insecure=1&sni=shy35.zqjc.cloud#🔒
 hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1&sni=www.bing.com#4Kian-7e0887a418
@@ -72,6 +71,7 @@ hysteria2://dongtaiwang.com@142.249.37.90:44356?sni=hy2.561891.xyz#%F0%9F%8F%B3%
 hysteria2://dongtaiwang.com@142.249.37.90:44356/?sni=hy2.561891.xyz#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@142.93.215.128:10001?sni=IN.1010520.shop#🔒
 hy2://5a4d82f4-5504-41f0-9a37-e82c430b2f98@142.93.39.217:10001?sni=uk.1010520.shop#🔒
+hysteria2://Xmfo9FkLBCNprxd2Dohi@143.246.56.172:8443?insecure=1&sni=bing.com#%F0%9F%87%BA%F0%9F%87%B8US_1%7C3.7MB/s
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@143.47.43.210:2052?insecure=1&sni=es1.xiaoliyu.us#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@143.47.43.210:2052/?insecure=1&sni=es1.xiaoliyu.us#es%40oneclickvpnkeys
 hy2://c5110090-c3a2-429e-b9b8-072b6535be1b@144.202.119.175:8080?sni=jp2.trojanws.xyz#🔒
@@ -115,3 +115,4 @@ hy2://sysadmin.sysadmin@148.135.36.71:56666?insecure=1#🔒
 hy2://sysadmin.sysadmin@148.135.43.213:56666?insecure=1#🔒
 hy2://sysadmin.sysadmin@148.135.43.253:446?insecure=1&sni=ss.aslirico3212.nyc.mn#🔒
 hy2://sysadmin.sysadmin@148.135.59.9:446?insecure=1#🔒
+hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@149.130.210.148:30102?insecure=1&sni=us9.wish.ml#🔒
