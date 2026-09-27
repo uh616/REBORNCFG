@@ -23,11 +23,9 @@ hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@nl01ntrhy01.tcp-reset-club.net:
 hysteria2://cd74c0a406664a5bc0bac098220a2468@nl1.sferavpn.pro:443?insecure=1&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=nl1.sferavpn.pro#4Sarina-4af435a874
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.234:8080/?insecure=1&sni=hopp-legend-se.roxa.org%23%F0%9F%AA%8696@oneclickvpnkeys#
 hysteria2://my_super_password_123@open.2ml.bid:443?insecure=1&security=tls&sni=open.2ml.bid#%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC+Oracle%E4%BA%91%E8%AE%A1%E7%AE%97%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-hysteria2://my_super_password_123@open.2ml.bid:5443?sni=open.2ml.bid&insecure=1#JP
-hysteria2://my_super_password_123@open.2ml.bid:5443/?insecure=1&sni=open.2ml.bid#%F0%9F%87%AF%F0%9F%87%B5181765%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 hysteria2://my_super_password_123@open.2ml.cc.cd:5443?security=tls&sni=open.2ml.cc.cd#%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC+Oracle+Cloud
-hysteria2://my_super_password_123@open.w2m.ink:443?sni=127.0.0.1#%E6%97%A5%E6%9C%AC_092706124
-hysteria2://2561c6b1a3069d3170b4d7e1ecc08c65@paris.nerabotaet.com:443?sni=127.0.0.1#%E9%98%B2%E5%A4%B1%E6%95%88github+SubCrawler%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A_092706006
+hysteria2://my_super_password_123@open.w2m.ink:443?sni=127.0.0.1#%E6%97%A5%E6%9C%AC_092711123
+hysteria2://2561c6b1a3069d3170b4d7e1ecc08c65@paris.nerabotaet.com:443?sni=127.0.0.1#%E9%98%B2%E5%A4%B1%E6%95%88github+SubCrawler%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A_092711006
 hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@pixelcast.wwwinternetvideo.click:443?insecure=1&sni=pixelcast.wwwinternetvideo.click#4Mohsen-dbcc0389c0
 hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@pixelcast.wwwinternetvideo.click:443/?insecure=1&sni=pixelcast.wwwinternetvideo.click#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hysteria2://V1UQuwa-4PRIDW2paxrPe58RcxXHPGyFIGS-5QojaM8@player.wwwinternetvideo.click:443?insecure=1&sni=player.wwwinternetvideo.click#4Kian-019ee5d8eb
@@ -102,9 +100,9 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-in-001.fastervpn.world:443?insecure=1&s
 hysteria2://H7mP2xY9kJ4nQ9wR5tF6vB3z@vpn-kr-002.fastervpn.world:443?insecure=1&sni=vpn-kr-002.fastervpn.world#4FreeIran-4b2d9be2cc
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-kr-003.fastervpn.world:443?insecure=1&sni=vpn-kr-003.fastervpn.world#4Nika-c39e17bd20
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-kr-003.fastervpn.world:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3AKR
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-001.fastervpn.world:443?insecure=1&sni=vpn-sg-001.fastervpn.world&obfs=&obfs-password=#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C4.4MB/s
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-001.fastervpn.world:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%E2%9D%93Other_1%7C8.1MB%2Fs%7CGPT%E2%81%BA%7CYT-SG%7CNF%7CGM
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=127.0.0.1#4Jadi-5d5a3ca512
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=vpn-tw-002.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ATW
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=127.0.0.1#EPODONIOS
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-002.fastervpn.world:443?insecure=1&sni=vpn-uk-002.fastervpn.world#%E5%98%8E
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-002.fastervpn.world:443/?insecure=1&sni=vpn-uk-002.fastervpn.world#EPODONIOS
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&sni=127.0.0.1#4Kian-e61fef384e
