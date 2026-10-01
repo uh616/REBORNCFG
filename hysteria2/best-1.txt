@@ -14,13 +14,13 @@ hy2://a2c24b89-9a24-4bc3-bbec-c7acb3219ab9@103.252.90.231:55228?insecure=1#🔒
 hy2://9d765687-536c-4626-a2e2-6a403219e381@103.253.36.252:30103?insecure=1&sni=35afq4514.surfcat.store#🔒
 hy2://v2meowmeowmeow@103.68.108.25:443?insecure=1&sni=google.com#🔒
 hy2://v2meowmeowmeow@103.68.108.25:443/?insecure=1&amp;sni=google.com#Hysteria
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.142:9443?insecure=1&security=tls&sni=onecloudstream.com#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.219:9443?sni=onecloudstream.com#🇱🇻LV_9|2.0MB/s|GPT⁺|NF|0%
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.142:9443?insecure=1&amp;sni=onecloudstream.com#🇱🇻LV_4|1.8MB/s|GPT⁺|YT-RU|NF|0%
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.219:9443?sni=onecloudstream.com#%F0%9F%87%B1%F0%9F%87%BBLV_2%7C2.0MB%2Fs%7CGPT%E2%81%BA%7CYT-LV%7CNF%7C0%25
 hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.23:9443?sni=onecloudstream.com#🇱🇻LV_10|1.3MB/s|GPT⁺|YT-RU|NF|0%
 hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.250:9443?sni=onecloudstream.com#🇱🇻LV_1|2.0MB/s|GPT⁺|YT-RU|0%
 hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.43:9443?insecure=1&amp;sni=onecloudstream.com#🇱🇻LV_2|2.1MB/s|GPT⁺|YT-RU|NF|0%
 hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.44:9443?insecure=1&amp;sni=onecloudstream.com#🇱🇻LV_7|1.9MB/s|GPT⁺|YT-RU|NF|0%
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.46:9443?sni=onecloudstream.com#🇱🇻LV_3|2.0MB/s|GPT⁺|YT-RU|NF|0%
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.46:9443?sni=onecloudstream.com#%F0%9F%87%B1%F0%9F%87%BBLV_1%7C3.3MB%2Fs%7CGPT%E2%81%BA%7CYT-RU%7CNF%7C0%25
 hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.52:9443?sni=onecloudstream.com#🇱🇻LV_5|2.5MB/s|GPT⁺|YT-RU|NF|0%
 hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.53:9443?sni=onecloudstream.com#🇱🇻LV_8|1.6MB/s|GPT⁺|YT-RU|NF|0%
 hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.81:9443?sni=onecloudstream.com#🇱🇻LV_6|2.0MB/s|GPT⁺|YT-RU|NF|0%
@@ -107,7 +107,7 @@ hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@129.154.53.232:443/?mport=51000-53000
 hysteria2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160?insecure=1&sni=www.bing.com#%F0%9F%87%AE%F0%9F%87%B1%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E4%BB%A5%E8%89%B2%E5%88%97%2001
 hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@129.159.97.206:443?insecure=1&sni=cn.cremedelamer.com#🔒
 hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@129.159.97.206:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.124.233.211:443?insecure=1&sni=vpn-kr-003.fastervpn.world#%F0%9F%87%B0%F0%9F%87%B7%20ShatakVPN%20831214
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.124.233.211:443?insecure=1&sni=vpn-kr-003.fastervpn.world#%F0%9F%87%B0%F0%9F%87%B7%20ShatakVPN%20552964
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.124.233.211:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.207.151.141:443?insecure=1&sni=vpn-in-001.fastervpn.world#4Nika-08c3c9834e
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@13.231.105.239:3074?insecure=1&sni=TG.%40WangCai2#🔒
@@ -118,3 +118,4 @@ hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@130.61.135.188:30002?insecure=1&sni=w
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@130.61.24.219:2052?insecure=1&sni=de1.eyujichang.xyz#🔒
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@130.61.24.219:2052/?insecure=1&sni=de1.eyujichang.xyz#%E1%90%AF2%E1%96%87%E1%97%A9Y_T%E1%91%8C%E1%91%8E%E1%91%8EE%E1%92%AA_%E1%91%AD%E1%92%AA%E1%91%8C%E1%94%95%F0%9F%87%A9%F0%9F%87%AA
 hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@130.61.37.140:30001?insecure=1&sni=frankfurt1.nodes.lanmaoyun.icu#🔒
+hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=130.61.50.75#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20351535
