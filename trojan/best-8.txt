@@ -1,3 +1,6 @@
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.21.88.129:443/?type=tcp&security=tls&sni=icecream.955850.xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28321%29
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.26.6.214:443/?type=tcp&security=tls&sni=icecream.955850.xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28222%29
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.199:443/?type=tcp&security=tls&sni=icecream.955850.xyz#%F0%9F%87%BF%F0%9F%87%A6ZA%28AzadNet.t.me%29
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@162.159.153.216:443/?type=tcp&security=tls&sni=icecream.955850.xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2892%29
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@162.159.153.217:443/?type=tcp&security=tls&sni=icecream.955850.xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28318%29
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@162.159.153.247:443/?type=tcp&security=tls&sni=icecream.955850.xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28160%29
@@ -513,5 +516,3 @@ trojan://blue2024@162.159.141.145:443/?type=tcp&security=tls&sni=td.promote.icu#
 trojan://blue2024@162.159.152.49:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@162.159.21.210:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@162.159.245.125:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://blue2024@162.159.33.0:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://blue2024@162.159.44.110:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
