@@ -87,14 +87,14 @@ trojan://blue2024@104.16.159.159:443?security=tls&sni=ta.promote.icu&type=ws&hos
 trojan://cb1f26aa437d4bfa9b841d28503ce8cc@104.16.159.2:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#US🇺🇸
 trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.159.3:443?security=tls&sni=bangladeshipatri.com&type=tcp#🔒
 trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?security=tls&sni=bangladeshipatri.com&type=tcp#🔒
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=/6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#🩵+@Azarakhsh_Proxy+🩷
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=/6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#EPODONIOS
 trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91&fp=safari&alpn=http%2F1.1#🔒
 trojan://NISHIKUITAN111@104.16.160.38:443?#🔒
 trojan://blue2024@104.16.160.4:443?sni=ta.promote.icu#🔒
 trojan://humanity@104.16.174.101:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#4Jadi-5463afe3e8
 trojan://humanity@104.16.174.109:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#4Jadi-aac2272fa7
 trojan://humanity@104.16.174.117:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#4Nika-ad2f47dfe5
-trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#3
+trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@104.16.174.121:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#4Kian-aeb38a1a16
 trojan://humanity@104.16.174.124:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#4Kian-09faab60f2
 trojan://humanity@104.16.174.14:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#4Sarina-dbf0d3887a
@@ -104,9 +104,9 @@ trojan://humanity@104.16.174.185:443?security=tls&sni=www.ignitelimit.com&type=w
 trojan://humanity@104.16.174.22:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2F%2Fassignment#4FreeIran-5718a70abe
 trojan://humanity@104.16.174.33:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#4Kian-be0984f0a3
 trojan://humanity@104.16.174.34:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#4Jadi-afbdaff712
-trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#چنل
+trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@104.16.174.37:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#4Kian-9e0ead4cac
-trojan://humanity@104.16.174.44:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#2
+trojan://humanity@104.16.174.44:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@104.16.174.46:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#4Mohsen-4b0c5f63b6
 trojan://humanity@104.16.174.6:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#4FreeIran-5d435e8e07
 trojan://humanity@104.16.174.71:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#4Kian-071c9b247b
@@ -150,9 +150,9 @@ trojan://humanity@104.16.7.70:443?type=ws&security=tls&path=%2Fassignment&host=w
 trojan://MiTiVPN@104.16.71.213:443?security=tls#⚡
 trojan://humanity@104.16.72.2:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment&allowInsecure=0#@OutlineReleasedKey
 trojan://blue2024@104.16.72.34:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#🔒
-trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@i10VPN⁴
+trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@104.16.72.50:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-445
-trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#TEL;Father_vpn
+trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#EPODONIOS
 trojan://humanity@104.16.73.213:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#4Jadi-071033f178
 trojan://45c47cfa-67da-47e0-b20b-5efa674e6a9b@104.16.75.127:443?sni=unnes.ac.id.r3xxe.eu.cc&type=ws&path=/us-gllc&fp=chrome#4FreeIran-459f00c61f
 trojan://blue2024@104.16.76.240:443?sni=ha.lii2010.us.kg&allowInsecure=0#🔒
@@ -170,7 +170,7 @@ trojan://NISHIKUITAN111@104.17.0.118:443?#🔒
 trojan://blue2024@104.17.1.234:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#🔒
 trojan://bpb-trojan@104.17.102.149:2053?security=tls&sni=bpb-WorkEr-panel-bcr.PagEs.DEv&type=ws&host=bpb-worker-panel-bcr.pages.dev&path=%2FtrlBYH5QQYGYnWgP5T%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒
 trojan://blue2024@104.17.103.130:443?security=tls&sni=td.promote.icu&type=tcp#🔒
-trojan://Telegram-Config0plus@104.17.108.189:443?path=/ca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc#TEL;Father_vpn
+trojan://Telegram-Config0plus@104.17.108.189:443?path=/ca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc#EPODONIOS
 trojan://humanity@104.17.111.1:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#4Jadi-80e4789d39
 trojan://humanity@104.17.111.3:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#4FreeIran-b31c00c014
 trojan://humanity@104.17.111.4:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#4Kian-99927a4278
@@ -179,7 +179,7 @@ trojan://blue2024@104.17.114.140:443?sni=ha.lii2010.us.kg#🔒
 trojan://bpb-trojan@104.17.116.87:443?security=tls&sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=%2Ftr%3Fed%3D2560&fp=randomized&alpn=h3&allowInsecure=1#🔒
 trojan://NISHIKUITAN111@104.17.120.144:443?#🔒
 trojan://blue2024@104.17.120.23:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒
-trojan://humanity@104.17.121.71:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@i10VPN³
+trojan://humanity@104.17.121.71:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://NISHIKUITAN111@104.17.126.7:443?#🔒
 trojan://blue2024@104.17.128.1:2096?security=tls&sni=ta.promote.icu&type=tcp#🔒
 trojan://NISHIKUITAN111@104.17.13.218:443?#🔒
@@ -322,9 +322,9 @@ trojan://humanity@104.18.152.208:443?security=tls&sni=www.ignitelimit.com&fp=chr
 trojan://humanity@104.18.152.210:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#4Jadi-d433b8b719
 trojan://humanity@104.18.152.219:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#4Mohsen-044c1ee75d
 trojan://humanity@104.18.152.225:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#4Jadi-15c7ac1f87
-trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#6
+trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@104.18.152.230:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#4FreeIran-380848d433
-trojan://humanity@104.18.152.233:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#7
+trojan://humanity@104.18.152.233:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@104.18.152.244:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#4FreeIran-b6b464cc48
 trojan://humanity@104.18.152.246:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#4FreeIran-9a6ab9e672
 trojan://humanity@104.18.152.50:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#4Mohsen-b1f857c9cd
@@ -333,7 +333,7 @@ trojan://humanity@104.18.152.77:443?security=tls&sni=www.ignitelimit.com&insecur
 trojan://humanity@104.18.152.97:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@meliproxyy
 trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?sni=dimskiee.biz.id&type=ws&path=/WangCai-8&fp=chrome#4Sarina-dbf7de701f
 trojan://blue2024@104.18.153.27:443?sni=td.promote.icu#🔒
-trojan://nzrc4ma4087c1ukr@104.18.154.96:2083?path=/WWEiIlL225IiiILl&security=tls&insecure=0&host=dl1.rahetejarat.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=dl2.rahetejarat.com#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
+trojan://nzrc4ma4087c1ukr@104.18.154.96:2083?path=/WWEiIlL225IiiILl&security=tls&insecure=0&host=dl1.rahetejarat.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=dl2.rahetejarat.com#EPODONIOS
 trojan://NISHIKUITAN111@104.18.159.147:443?#🔒
 trojan://blue2024@104.18.160.63:443?sni=hb.lii2010.us.kg#🔒
 trojan://blue2024@104.18.170.217:443?security=tls&sni=ha.lii2010.us.kg&type=ws&host=ha.lii2010.us.kg&path=%2F%3Fed#🔒
@@ -394,7 +394,7 @@ trojan://NISHIKUITAN111@104.18.84.174:443?allowInsecure=1#🔒
 trojan://blue2024@104.18.84.67:443?security=tls&sni=ha.lii2010.us.kg&type=tcp#🔒
 trojan://bpb-trojan@104.18.86.204:443?security=tls&sni=102.djR999998.Eu.orG&type=tcp#🔒
 trojan://blue2024@104.18.88.163:443?sni=ha.lii2010.us.kg#🔒
-trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0#Telegram:@v2rayng3
+trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0#EPODONIOS
 trojan://WOeXShhJpL@104.19.107.3:443?security=tls&sni=04jzus.zdzdzd.xyz&type=ws&host=04jzus.zdzdzd.xyz&path=%2Fjuzigongyi#🔒
 trojan://blue2024@104.19.120.87:443?security=tls&sni=ta.promote.icu&type=tcp#🔒
 trojan://blue2024@104.19.126.235:443?sni=ta.promote.icu#🔒
@@ -428,7 +428,7 @@ trojan://blue2024@104.19.216.63:443?sni=td.promote.icu#🔒
 trojan://blue2024@104.19.222.79:443?security=tls&sni=tb.promote.icu&type=tcp#🔒
 trojan://blue2024@104.19.223.79:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒
 trojan://NISHIKUITAN111@104.19.224.216:443?#🔒
-trojan://humanity@104.19.229.21:443?path=%2F%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20832220
+trojan://humanity@104.19.229.21:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-FR-...%20%239
 trojan://blue2024@104.19.234.198:443?security=tls&sni=ha.lii2010.us.kg&type=ws&host=ha.lii2010.us.kg&path=%2F%3Fed#🔒
 trojan://4d706727-996f-4427-930d-60f3bd414cf9@104.19.235.14:443?security=tls&sni=c2mk.ciscocdn1.live&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://blue2024@104.19.238.216:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒
@@ -542,4 +542,3 @@ trojan://blue2024@104.21.218.215:443?security=tls&sni=ta.promote.icu&type=tcp#�
 trojan://Telegram_healer_config@104.21.24.95:443?sni=1V95V6TjywCyTbAHl7f7Lx8b27G.L4495eYcqmsE9he0yVoEMJFc4IBYf-4.wORkERS.DeV&type=ws&path=/tr/zJi4ccv7FeEo780U?ed=2560&alpn=http/1.1&fp=chrome#4Kian-9f5b84fc25
 trojan://4d706727-996f-4427-930d-60f3bd414cf9@104.21.25.85:443?security=tls&sni=c2mt.ciscocdn1.live&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://bpb-trojan@104.21.26.36:443?sni=vless.herogoing.top&type=ws&path=/tr?ed=2560&fp=chrome#4Mohsen-34e5a3dda4
-trojan://NISHIKUITAN111@104.21.26.75:443?#🔒
