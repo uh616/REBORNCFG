@@ -1,10 +1,3 @@
-trojan://53027f0f-2581-469a-a802-825d46f37cda@104.18.124.198:443/?type=tcp&security=tls&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28104%29
-trojan://53249200-30ff-436f-a032-0bb00605f8f9@172.67.219.196:443/?type=tcp&security=tls&sni=3derty.852224.dpdns.org#
-trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443/?type=tcp&security=tls#
-trojan://5453ae26-250d-4e79-b4ec-016baf806865@172.67.204.22:443/?type=ws&path=%2FOYzPAeaZdXUq2d6J3gc4aj&security=tls&sni=1SdfghJk.890602.xyz#
-trojan://5453ae26-250d-4e79-b4ec-016baf806865@172.67.210.210:443/?type=ws&host=1cc.852224.ggff.net&path=%2FOYzPAeaZdXUq2d6J3gc4aj&security=tls&sni=1cc.852224.ggff.net#
-trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443/?type=tcp&security=tls&sni=pl1.trojanvh.xyz#
-trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80/?type=tcp&security=tls&sni=pl1.trojanvh.xyz#
 trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.195.236.24:443/?type=tcp&security=tls#%F0%9F%87%BB%F0%9F%87%B3VN%28AzadNet.t.me%29
 trojan://576c81b6-4976-4fe3-b1a9-05a9c302e98e@192.3.130.103:443/?type=tcp&security=tls&sni=us10-01zl.huangshang.filegear-sg.me#
 trojan://58dcd460-65df-47b1-b062-517df30bef29@ca.liangyuandian.top:443/?type=tcp&security=tls#
@@ -397,8 +390,8 @@ trojan://auto@185.146.173.158:443?security=tls&sni=esetsecuritylicense.bwnsmv.wo
 trojan://auto@188.114.99.81:443/?type=ws&host=mazq100za43.962dael.workers.dev&security=tls&sni=mazq100za43.962dael.workers.dev&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@iranserver.com:8443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#EPODONIOS
 trojan://auto@zula.ir:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#EPODONIOS
-trojan://av7fquzvuc99xcs9@uwu.blueknightnet.qzz.io:2087?path=/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net&security=tls&alpn=h2&insecure=0&host=uwu.dianaw.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=uwu.dianaw.cc.cd#57
-trojan://av7fquzvuc99xcs9@uwu.blueknightnet.qzz.io:2087?path=/@VPNine1--@VPNine1--@VPNine1&security=tls&alpn=h2&insecure=0&host=uwu.dianaw.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=uwu.dianaw.cc.cd#🚀@VPNine1
+trojan://av7fquzvuc99xcs9@uwu.blueknightnet.qzz.io:2087?path=/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net&security=tls&alpn=h2&insecure=0&host=uwu.dianaw.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=uwu.dianaw.cc.cd#EPODONIOS
+trojan://av7fquzvuc99xcs9@uwu.blueknightnet.qzz.io:2087?path=/@VPNine1--@VPNine1--@VPNine1&security=tls&alpn=h2&insecure=0&host=uwu.dianaw.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=uwu.dianaw.cc.cd#EPODONIOS
 trojan://azadnet-trojan@104.21.36.165:443/?type=tcp&security=tls&sni=XN----PmCnaaC0dKn0Rb71NdA.PagES.DeV#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28115%29
 trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443/?type=tcp&security=tls&sni=syndication-statutes-wanted-logo.trycloudflare.com&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
 trojan://b26e31e5-eac1-45b0-9069-83830bd69521@20.187.85.198:443/?type=tcp&security=tls&sni=hkt.iamnotagoodman.com#%F0%9F%87%AD%F0%9F%87%B0HK%28AzadNet.t.me%29
@@ -530,4 +523,3 @@ trojan://blue2024@104.25.90.16:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0
 trojan://blue2024@104.26.10.222:443/?type=tcp&security=tls&sni=tc.promote.icu&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@104.26.11.222:443/?type=tcp&security=tls&sni=tc.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@104.26.12.31:443/?type=tcp&security=tls&sni=tc.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://blue2024@104.26.15.133:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
