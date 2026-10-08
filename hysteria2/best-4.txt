@@ -1,3 +1,9 @@
+hy2://dongtaiwang.com@167.160.90.252:63530?insecure=1&sni=www.bing.com#🔒
+hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@167.179.34.13:55443?insecure=1&sni=gorbachev-th.kvnfreetest.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20165832
+hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@167.179.34.13:55443/?insecure=1&sni=gorbachev-th.kvnfreetest.uk#
+hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443?insecure=1&sni=gorbachev-new-th.kvnfreetest.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20395796
+hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443/?insecure=1&sni=gorbachev-new-th.kvnfreetest.uk#
+hy2://sysadmin.sysadmin@167.234.249.46:444?insecure=1&sni=a.961229.xyz#🔒
 hy2://364e8db7a2d57e32@167.253.152.235:46600?insecure=1&sni=www.bing.com#🔒
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@168.110.57.148:30000/?insecure=1&amp;sni=bing.com#🎡68@oneclickvpnkeys
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@168.138.176.6:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
@@ -15,7 +21,7 @@ hysteria2://few4139098219@172.172.36.217:7863?security=tls&insecure=1&sni=bing.c
 hy2://1486bfa6-1c4c-456d-b055-c9760f911385@172.233.81.57:443/?mport=20000-50000&insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=YTVjNWFjYzExOTIzNzQyOQ%3D%3D#jp
 hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@172.236.149.43:10001?sni=SG3.1010520.shop#🔒
 hy2://d5537dd05904b6a6@173.199.70.234:443?insecure=1&obfs=salamander&obfs-password=d2b91736#🔒
-hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?insecure=1&sni=www.docker.com#%E6%B3%95%E5%9B%BD_100819103
+hysteria2://gf1:gfhysteria2024@173.212.201.85:443?insecure=1&sni=www.docker.com#4Jadi-b3b139af11
 hy2://8b2693fb-8739-46bd-b184-5e7c1778c597@176.124.202.137:80?insecure=1#🔒
 hy2://0d8a7085-8fb3-4999-80d9-d1e72ca7c1ed@176.32.32.68:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#🔒
 hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@176.32.33.100:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#🔒
@@ -49,7 +55,7 @@ hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@18.183.245.244:
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@181.215.32.174:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA3
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@181.215.32.174:4380/?sni=vmln53bkj6.bayworld.net&obfs=salamander&obfs-password=irvless#%E2%80%BC%EF%B8%8F1%40oneclickvpnkeys
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@185.14.47.28:30024?insecure=1&sni=www.bing.com#🔒
-hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?insecure=1&sni=whatsapp.com#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A_100819030
+hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?allowInsecure=1&sni=css.rbxcdn.com&upmbps=10&insecure=1&type=tcp&downmbps=50&nonce=e98RZ2Wn&_t=227da4f0#
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@185.164.163.21:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA1
 hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@185.204.0.117:443?mport=50000-50500&insecure=1&sni=hk1.pithecia.com#🔒
 hy2://782efefcaac2a7f26e2be42f7bc5d75a@185.219.132.29:443?insecure=1&sni=quran.mci.ai#🔒
@@ -89,8 +95,8 @@ hysteria2://8d1729b01c1ad743179ed4558c8404b0@193.42.11.245:8397?alpn=h3%2Ch2%2Ch
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@194.104.146.113:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@194.104.146.113:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B0HK_113%20%40wangcai_8
 hysteria2://TKozvcwUPN@194.113.106.53:943?security=tls&obfs=salamander&obfs-password=Telegram%3A%40Mikronet-plus+&insecure=0&sni=asghar.mikronetplus.store#🆔iran_v2ray1%20🔒%20HY2-UDP-N/A%20🇷🇺%20RU%20down
-hysteria2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443?insecure=1&sni=kaz0001hy01.packet-drop-society.net#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20393823
-hysteria2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443/?insecure=1&sni=kaz0001hy01.packet-drop-society.net#%3E%3E%40oneclickvpnkeys%3A%3AKZ
+hysteria2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443?insecure=1&sni=kaz0001hy01.packet-drop-society.net#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20924554
+hysteria2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443/?insecure=1&sni=kaz0001hy01.packet-drop-society.net#
 hy2://sysadmin.sysadmin@194.36.209.54:443?insecure=1#🔒
 hy2://99999@194.5.97.15:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=99999#🔒
 hy2://eq64TMTbpcsf5LERJoKcMwwSHEzBEm@194.87.2.3:443?insecure=1&sni=google.com#🔒
@@ -99,8 +105,8 @@ hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@194.87.227.237:2052?insecure=1&sni=de
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@194.87.227.237:2052/?insecure=1&sni=de1.xiaoliyu.us#de%40oneclickvpnkeys
 hy2://c8865525-d888-4318-aa77-44ca4c95e88b@194.87.68.196:13167?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
 hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@194.87.69.42:7660?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
-hysteria2://OD6gGbGU9a@195.133.24.124:443?sni=hys26.wba-pn.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20926483
-hysteria2://OD6gGbGU9a@195.133.24.124:443/?sni=hys26.wba-pn.ru#%3E%3E%40oneclickvpnkeys%3A%3ANL
+hysteria2://OD6gGbGU9a@195.133.24.124:443?sni=hys26.wba-pn.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20319454
+hysteria2://OD6gGbGU9a@195.133.24.124:443/?sni=hys26.wba-pn.ru#
 hy2://e47cb5ff-45b5-49d7-9811-64d472acac37@195.58.48.220:7660?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
 hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@195.58.49.173:33390?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
 hy2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@198.23.130.211:25000?insecure=1&sni=api.push.apple.com#4FreeIran-5ae307722e
@@ -117,9 +123,3 @@ hy2://9ijufI4LW_ehlst!Pho-@[2001:19f0:5000:1143:5400:4ff:fec6:119]:443?insecure=
 hy2://sTeki1$re5!8swohopro@[2001:19f0:5001:b0e:5400:4ff:fec6:11b]:443/?insecure=1&sni=ELiV2ray.Elena.expert&obfs=salamander&obfs-password=sTeki1$re5!8swohopro#🇳🇱S3+@ELiV2ray
 hy2://1f17cdf0578a2860@[2001:19f0:5:34a0:5400:5ff:fe19:3f6f]:443?obfs=salamander&obfs-password=4b817757&insecure=1#🔒
 hy2://f40b1e441addaec3@[2001:19f0:6801:1ba7:5400:4ff:fea9:2455]:443?insecure=1&sni=google.co&obfs=salamander&obfs-password=2db7b42a#🔒
-hy2://c72ee44c@[2001:41d0:a:2a7a:a:b:df4e:2408]:35051?insecure=1&sni=2001:41d0:a:2a7a:a:b:df4e:2408#🔒
-hy2://scWFJKJ5Y6Ly@[2001:41d0:c:fdb::e9]:443?insecure=1&sni=yahoo.com#🔒
-hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2001:bc8:1640:177d:dc00:ff:fe22:b443]:34975?insecure=1&sni=www.bing.com#🔒
-hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2001:bc8:1d90:6fd:dc00:ff:fe11:b23]:29820?insecure=1&sni=www.bing.com#🔒
-hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=apple.com#4Mohsen-c825c713a2
-hysteria2://oCYFcbOo8s@201.51.24.4:443?sni=hys22.wba-pn.ru#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20587920
