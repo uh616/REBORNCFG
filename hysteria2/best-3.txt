@@ -1,8 +1,7 @@
-hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@15.164.245.92:443?insecure=1&sni=www.bing.com#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%20%7C%20KOR%20%232
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.122.197:443?insecure=1&sni=15.223.122.197#4FreeIran-4dc3115c15
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.183.81:443?insecure=1&sni=t.me#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20144920
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.183.81:443?insecure=1&sni=t.me#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20762173
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.183.81:443/?insecure=1&sni=t.me#%3E%3E%40oneclickvpnkeys%3A%3ACA
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.63.10:443/?insecure=1&sni=t.me#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20305603
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.63.10:443/?insecure=1&sni=t.me#
 hysteria2://9cfc9458e48c028ec03ff86ebc71c744@150-230-252-217.liao.kdns.fr:50160?insecure=1#
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@150.136.65.4:2052?insecure=1&sni=asb1.mangshe.xyz#🔒
 hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@150.230.192.191:30001?insecure=1&sni=tokyo.nodes.lanmaoyun.icu#🔒
@@ -77,11 +76,11 @@ hy2://148097c2-cd69-4015-992f-5939c08b9ab8@158.180.84.138:443?mport=22000-22999#
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@158.180.94.166:21020?insecure=1&sni=www.bing.com#🔒
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@159.13.34.59:443?insecure=1&sni=www.bing.com#🔒
 hysteria2://b42d90fa667942aebc734d60@159.13.42.167:20000?insecure=1&obfs=salamander&obfs-password=b42d90fa667942aebc734d60&sni=rmgyvpn.rest#
-hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20246033
+hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20242838
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443/?insecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=127.0.0.1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20280194
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=127.0.0.1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20909599
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443/?insecure=1&sni=vpn-tw-002.fastervpn.world#
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?insecure=0&sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#%40FarazV2ray
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?insecure=0&sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.2:8443?insecure=1&sni=hopp-germany-new.ddnsguru.com#4Sarina-f58b4604fb
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.39:8443?insecure=1&sni=hop-germany-september.dynuddns.com#
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.39:9443?insecure=0&obfs=&obfs-password=&security=tls&sni=hop-germany-september.dynuddns.com#
@@ -110,9 +109,9 @@ hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@166.88.228.121:2052?insecure=1&sni=fr
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@166.88.228.121:2052/?insecure=1&sni=fr1.xiaoliyu.us#fr%40oneclickvpnkeys
 hy2://547e05a0-2e59-4712-b9f9-dedb10293d83@166.88.228.144:2052?insecure=1&sni=fr1.xiaoliyu.us#🔒
 hy2://dongtaiwang.com@167.160.90.252:63530?insecure=1&sni=www.bing.com#🔒
-hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@167.179.34.13:55443?insecure=1&sni=gorbachev-th.kvnfreetest.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20855323
+hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@167.179.34.13:55443?insecure=1&sni=gorbachev-th.kvnfreetest.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20636048
 hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@167.179.34.13:55443/?insecure=1&sni=gorbachev-th.kvnfreetest.uk#%3E%3E%40oneclickvpnkeys%3A%3ANL
-hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443?insecure=1&sni=gorbachev-new-th.kvnfreetest.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20792475
+hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443?insecure=1&sni=gorbachev-new-th.kvnfreetest.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20727381
 hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443/?insecure=1&sni=gorbachev-new-th.kvnfreetest.uk#%3E%3E%40oneclickvpnkeys%3A%3ANL
 hy2://sysadmin.sysadmin@167.234.249.46:444?insecure=1&sni=a.961229.xyz#🔒
 hy2://364e8db7a2d57e32@167.253.152.235:46600?insecure=1&sni=www.bing.com#🔒
