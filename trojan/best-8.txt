@@ -1,12 +1,3 @@
-trojan://4c68fce6-2b72-4ab6-8dd4-8e07139e2b2e@15.235.163.26:443/?type=tcp&security=tls&sni=sgt1.sshocean.net&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29
-trojan://4d048fc6-d944-41dd-b327-10856adcc82d@zi.you.usdtvfk.top:443/?type=tcp&security=tls&sni=zi.you.usdtvfk.top&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://4d706727-996f-4427-930d-60f3bd414cf9@104.18.118.51:443/?type=tcp&security=tls&sni=c2mk.ciscocdn1.live&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443/?type=tcp&security=tls#%F0%9F%87%B2%F0%9F%87%B3MN%28AzadNet.t.me%29
-trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@esjs.liangyuandiancloud.com:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@lu.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://5041df4c-b3ae-481d-adf9-79b39f4810f2@104.26.14.85:2083/?type=tcp&security=tls&sni=taqboostan.zagros.top&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28220%29
-trojan://5041df4c-b3ae-481d-adf9-79b39f4810f2@172.67.148.211:2083/?type=tcp&security=tls&sni=taqboostan.zagros.top#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28214%29
-trojan://509ed9b7-8d64-4204-8ec8-6b749020ac3f@104.21.3.189:443/?type=tcp&security=tls&sni=CcCVfGTyU.89060004.Xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28167%29
 trojan://50e10abd-3920-42a6-ad0c-6ec731d8c826@104.16.133.220:443/?type=tcp&security=tls&sni=golinkwuxian.top&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://512d9674-db12-44ca-a1b5-654244549b65@172.66.132.196:443/?type=tcp&security=tls&sni=XxCdvfgty.444652.xyZ#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28111%29
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443/?type=tcp&security=tls&sni=hdfyc1.achaemenidempireofpersia.uk#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28238%29
@@ -141,7 +132,7 @@ trojan://8800c518-e68a-4441-a45c-cd67855784c8@hk1.sanfen001.pics:443/?type=tcp&s
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@hk2.sanfen001.pics:443/?type=tcp&security=tls#%F0%9F%8F%81RELAY-172.67.215.250-3894
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@jp2.sanfen001.pics:443/?type=tcp&security=tls&sni=jp1.sanfen001.pics#%F0%9F%8F%81RELAY-104.21.91.112-3895
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr1.sanfen001.pics:443/?type=tcp&security=tls#%F0%9F%8F%81RELAY-172.67.215.250-3896
-trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr2.sanfen001.pics:443/?type=tcp&security=tls&sni=kr1.sanfen001.pics#EPODONIOS
+trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr2.sanfen001.pics:443/?type=tcp&security=tls&sni=kr1.sanfen001.pics#%F0%9F%8F%81RELAY-172.67.215.250-3897
 trojan://88939272-790a-441f-b12b-8ce531aca810@polo01.kctr2038.icu:443/?type=tcp&security=tls&sni=polo01.kctr2038.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://891d999f-7864-45c5-8db9-3c69f35dcb96@104.21.29.75:443/?type=tcp&security=tls&sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28192%29
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083/?type=tcp&security=tls&sni=ArGodev11222.PaGes.Dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2871%29
@@ -332,7 +323,7 @@ trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us03.ssr.ee:443/?type=tcp&security
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us05.ssr.ee:443/?type=tcp&security=tls&sni=us05.ssr.ee&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us08.ssr.ee:443/?type=tcp&security=tls&sni=us08.ssr.ee&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us10.ssr.ee:443/?type=tcp&security=tls&sni=us10.ssr.ee&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://9e1006cd4fa01b63e710d6550c0de1a1@172.67.248.85:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/u/fb66dcb77cc6?ed=2560&security=tls&insecure=0&host=edge-relay-af904f2b.nova-963a1b9c8400.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=edge-relay-af904f2b.nova-963a1b9c8400.workers.dev#%5BOpenRay%5D%20%F0%9F%8C%90XX-413
+trojan://9e1006cd4fa01b63e710d6550c0de1a1@172.67.248.85:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/u/fb66dcb77cc6?ed=2560&security=tls&insecure=0&host=edge-relay-af904f2b.nova-963a1b9c8400.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=edge-relay-af904f2b.nova-963a1b9c8400.workers.dev#%5BOpenRay%5D%20%F0%9F%8C%90XX-388
 trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@104.21.86.140:443/?type=tcp&security=tls&sni=m2rrrty.777219.xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28248%29
 trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@172.67.220.93:443/?type=tcp&security=tls&sni=m2rrrty.777219.xyz#%F0%9F%8F%81RELAY-172.67.220.93-1510
 trojan://9yu6m5okr@104.21.50.5:443/?type=tcp&security=tls&sni=production.tj.ojan.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28158%29
@@ -396,7 +387,6 @@ trojan://auto@185.146.173.158:443?security=tls&sni=esetsecuritylicense.bwnsmv.wo
 trojan://auto@188.114.99.81:443/?type=ws&host=mazq100za43.962dael.workers.dev&security=tls&sni=mazq100za43.962dael.workers.dev&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@iranserver.com:8443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#EPODONIOS
 trojan://auto@zula.ir:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#EPODONIOS
-trojan://av7fquzvuc99xcs9@172.67.140.126:2087?path=/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net&security=tls&alpn=h2&insecure=0&host=uwu.dianaw.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=uwu.dianaw.cc.cd#EPODONIOS
 trojan://azadnet-trojan@104.21.36.165:443/?type=tcp&security=tls&sni=XN----PmCnaaC0dKn0Rb71NdA.PagES.DeV#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28115%29
 trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443/?type=tcp&security=tls&sni=syndication-statutes-wanted-logo.trycloudflare.com&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
 trojan://b26e31e5-eac1-45b0-9069-83830bd69521@20.187.85.198:443/?type=tcp&security=tls&sni=hkt.iamnotagoodman.com#%F0%9F%87%AD%F0%9F%87%B0HK%28AzadNet.t.me%29
@@ -500,3 +490,12 @@ trojan://blue2024@104.20.8.70:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%
 trojan://blue2024@104.21.112.1:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@104.21.13.77:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@104.21.15.212:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://blue2024@104.21.16.1:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://blue2024@104.21.218.215:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://blue2024@104.21.32.1:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://blue2024@104.21.48.1:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://blue2024@104.21.56.71:443/?type=tcp&security=tls&sni=tb.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://blue2024@104.21.64.1:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://blue2024@104.21.66.241:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://blue2024@104.21.80.1:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://blue2024@104.21.96.1:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
