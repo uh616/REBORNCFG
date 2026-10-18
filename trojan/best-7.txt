@@ -1,8 +1,3 @@
-trojan://Aimer@209.208.227.79:443/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=epccj.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-209.208.227.79-1974
-trojan://Aimer@209.94.90.64:443/?type=tcp&security=tls&sni=epccu.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
-trojan://Aimer@212.41.15.119:443/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
-trojan://Aimer@213.241.198.189:2053/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-213.241.198.189-1501
-trojan://Aimer@213.241.198.56:2083/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-213.241.198.56-2023
 trojan://Aimer@213.241.198.59:2083/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-213.241.198.59-1470
 trojan://Aimer@216.198.53.212:8443/?type=tcp&security=tls&sni=epcct.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-216.198.53.212-2141
 trojan://Aimer@216.24.57.186:443/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8C%B558%40oneclickvpnkeys
@@ -732,3 +727,8 @@ trojan://blue2024@185.148.106.55:443/?type=tcp&security=tls&sni=b.promote.icu#%4
 trojan://blue2024@185.170.166.39:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29
 trojan://blue2024@185.174.138.57:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%B7%F0%9F%87%BARU%28AzadNet.t.me%29
 trojan://blue2024@185.176.26.193:443/?type=tcp&security=tls&sni=b.promote.icu#%40Hope_Net-join-us-on-Telegram
+trojan://blue2024@185.238.228.178:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%AA%F0%9F%87%B8ES%28AzadNet.t.me%29
+trojan://blue2024@188.114.96.158:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
+trojan://blue2024@188.114.96.186:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://blue2024@188.114.96.208:443/?type=ws&security=tls&sni=hb.lii2010.us
+trojan://blue2024@188.114.96.88:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
