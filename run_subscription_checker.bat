@@ -1,13 +1,8 @@
 @echo off
+setlocal
 chcp 65001 >nul
 title REBORN CFG - Multi-Protocol Subscription Checker 2026
 cd /d "%~dp0"
-
-echo ================================================================
-echo    ⚡ REBORN CFG - Multi-Protocol Subscription Checker 2026
-echo    Hysteria2 ^| VLESS Reality ^| VMESS ^| Shadowsocks ^| Trojan
-echo ================================================================
-echo.
 
 IF EXIST "venv\Scripts\python.exe" (
     "venv\Scripts\python.exe" "source\hysteria2_subscription_checker.py" %*
@@ -16,7 +11,6 @@ IF EXIST "venv\Scripts\python.exe" (
 )
 
 echo.
-echo ================================================================
-echo Работа чекера завершена. Результаты сохранены в папке results\
-echo Нажмите любую клавишу для закрытия...
+echo ----------------------------------------------------------------
+echo Нажмите любую клавишу для выхода...
 pause >nul
