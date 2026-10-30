@@ -9,8 +9,8 @@
 ### ɪ ᴅɪᴇᴅ ꜱɪx ʜᴜɴᴅʀᴇᴅ ᴀɴᴅ ꜱɪxᴛᴇᴇɴ ᴍɪɴᴜᴛᴇꜱ ᴀɢᴏ.
 
 [![Auto Update](https://img.shields.io/badge/Auto-Update-brightgreen)](https://github.com/uh616/REBORNCFG/actions)
-[![Total Configs](https://img.shields.io/badge/Total-96618-blue)](./hysteria2/subscription.txt)
-[![Last Update](https://img.shields.io/badge/Last_Update-06.02.2026_10:11:45-orange)](./hysteria2/subscription.txt)
+[![Total Configs](https://img.shields.io/badge/Total-126978-blue)](./hysteria2/subscription.txt)
+[![Last Update](https://img.shields.io/badge/Last_Update-30.10.2026_13:35:07-orange)](./hysteria2/subscription.txt)
 
 </div>
 
@@ -32,19 +32,13 @@
 
 ### 📊 Статистика последнего обновления
 
-- **📅 Дата обновления:** `06.02.2026 10:11:45`
-- **📦 Всего конфигов:** `96618`
+- **📅 Дата обновления:** `30.10.2026 13:35:07`
+- **📦 Всего конфигов:** `126978`
 - **🔌 Протоколов:** `5`
 
 ---
 
 ### 🔌 Подписки по протоколам
-
-<div align="center">
-
-*Выберите протокол для просмотра подписок*
-
-</div>
 
 **Протоколы:**
 - [🚀 Hysteria2](#hysteria2)
@@ -61,20 +55,19 @@
 
 <div align="center">
 
-**📦 Всего конфигов:** `927`
+**📦 Всего конфигов:** `521`
 
 </div>
 
-**📥 Основная подписка:**
+**📥 Основная подписка (все конфиги):**
 ```
 https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription.txt
 ```
 
-**⭐ Рекомендуемые подписки:**
+**⭐ Проверенные быстрые подписки (низкий пинг):**
 1. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/best-1.txt`
 2. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/best-2.txt`
 3. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/best-3.txt`
-
 
 
 ---
@@ -84,20 +77,19 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription.tx
 
 <div align="center">
 
-**📦 Всего конфигов:** `21390`
+**📦 Всего конфигов:** `33385`
 
 </div>
 
-**📥 Основная подписка:**
+**📥 Основная подписка (все конфиги):**
 ```
 https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/subscription.txt
 ```
 
-**⭐ Рекомендуемые подписки:**
+**⭐ Проверенные быстрые подписки (низкий пинг):**
 1. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/best-1.txt`
 2. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/best-2.txt`
 3. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/best-3.txt`
-
 
 
 ---
@@ -107,20 +99,19 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/subscription.txt
 
 <div align="center">
 
-**📦 Всего конфигов:** `11487`
+**📦 Всего конфигов:** `14648`
 
 </div>
 
-**📥 Основная подписка:**
+**📥 Основная подписка (все конфиги):**
 ```
 https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/subscription.txt
 ```
 
-**⭐ Рекомендуемые подписки:**
+**⭐ Проверенные быстрые подписки (низкий пинг):**
 1. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/best-1.txt`
 2. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/best-2.txt`
 3. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/best-3.txt`
-
 
 
 ---
@@ -130,20 +121,19 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/subscription.txt
 
 <div align="center">
 
-**📦 Всего конфигов:** `58114`
+**📦 Всего конфигов:** `70945`
 
 </div>
 
-**📥 Основная подписка:**
+**📥 Основная подписка (все конфиги):**
 ```
 https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/subscription.txt
 ```
 
-**⭐ Рекомендуемые подписки:**
+**⭐ Проверенные быстрые подписки (низкий пинг):**
 1. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/best-1.txt`
 2. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/best-2.txt`
 3. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/best-3.txt`
-
 
 
 ---
@@ -153,32 +143,31 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/subscription.
 
 <div align="center">
 
-**📦 Всего конфигов:** `4700`
+**📦 Всего конфигов:** `7479`
 
 </div>
 
-**📥 Основная подписка:**
+**📥 Основная подписка (все конфиги):**
 ```
 https://raw.githubusercontent.com/uh616/REBORNCFG/main/trojan/subscription.txt
 ```
 
-**⭐ Рекомендуемые подписки:**
+**⭐ Проверенные быстрые подписки (низкий пинг):**
 1. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/trojan/best-1.txt`
 2. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/trojan/best-2.txt`
 3. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/trojan/best-3.txt`
-
 
 
 ---
 
 ### 📥 Как использовать
 
-#### V2RayN / Nekoray / Clash / Hysteria2 клиент
+#### V2RayN / Nekoray / Clash / Hiddify / Hysteria2 клиент
 
 1. Выберите нужный протокол выше
 2. Скопируйте ссылку на подписку
 3. Добавьте в настройках подписок вашего клиента
-4. Обновите подписку
+4. Нажмите «Обновить подписку»
 5. Готово! 🎉
 
 ---
@@ -221,19 +210,13 @@ UQCU_NuO-7aKcYYiEsnkSd1rFpBtylB1C6upKWv7jY9r8ARe
 
 ### 📊 Last Update Statistics
 
-- **📅 Update date:** `06.02.2026 10:11:45`
-- **📦 Total configs:** `96618`
+- **📅 Update date:** `30.10.2026 13:35:07`
+- **📦 Total configs:** `126978`
 - **🔌 Protocols:** `5`
 
 ---
 
 ### 🔌 Subscriptions by Protocol
-
-<div align="center">
-
-*Select a protocol to view subscriptions*
-
-</div>
 
 **Protocols:**
 - [🚀 Hysteria2](#hysteria2-en)
@@ -250,20 +233,19 @@ UQCU_NuO-7aKcYYiEsnkSd1rFpBtylB1C6upKWv7jY9r8ARe
 
 <div align="center">
 
-**📦 Total configs:** `927`
+**📦 Total configs:** `521`
 
 </div>
 
-**📥 Main subscription:**
+**📥 Main subscription (all configs):**
 ```
 https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription.txt
 ```
 
-**⭐ Recommended subscriptions:**
+**⭐ Verified Fast Subscriptions (low latency):**
 1. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/best-1.txt`
 2. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/best-2.txt`
 3. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/best-3.txt`
-
 
 
 ---
@@ -273,20 +255,19 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription.tx
 
 <div align="center">
 
-**📦 Total configs:** `21390`
+**📦 Total configs:** `33385`
 
 </div>
 
-**📥 Main subscription:**
+**📥 Main subscription (all configs):**
 ```
 https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/subscription.txt
 ```
 
-**⭐ Recommended subscriptions:**
+**⭐ Verified Fast Subscriptions (low latency):**
 1. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/best-1.txt`
 2. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/best-2.txt`
 3. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/best-3.txt`
-
 
 
 ---
@@ -296,20 +277,19 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/subscription.txt
 
 <div align="center">
 
-**📦 Total configs:** `11487`
+**📦 Total configs:** `14648`
 
 </div>
 
-**📥 Main subscription:**
+**📥 Main subscription (all configs):**
 ```
 https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/subscription.txt
 ```
 
-**⭐ Recommended subscriptions:**
+**⭐ Verified Fast Subscriptions (low latency):**
 1. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/best-1.txt`
 2. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/best-2.txt`
 3. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/best-3.txt`
-
 
 
 ---
@@ -319,20 +299,19 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/subscription.txt
 
 <div align="center">
 
-**📦 Total configs:** `58114`
+**📦 Total configs:** `70945`
 
 </div>
 
-**📥 Main subscription:**
+**📥 Main subscription (all configs):**
 ```
 https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/subscription.txt
 ```
 
-**⭐ Recommended subscriptions:**
+**⭐ Verified Fast Subscriptions (low latency):**
 1. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/best-1.txt`
 2. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/best-2.txt`
 3. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/best-3.txt`
-
 
 
 ---
@@ -342,27 +321,26 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/subscription.
 
 <div align="center">
 
-**📦 Total configs:** `4700`
+**📦 Total configs:** `7479`
 
 </div>
 
-**📥 Main subscription:**
+**📥 Main subscription (all configs):**
 ```
 https://raw.githubusercontent.com/uh616/REBORNCFG/main/trojan/subscription.txt
 ```
 
-**⭐ Recommended subscriptions:**
+**⭐ Verified Fast Subscriptions (low latency):**
 1. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/trojan/best-1.txt`
 2. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/trojan/best-2.txt`
 3. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/trojan/best-3.txt`
-
 
 
 ---
 
 ### 📥 How to Use
 
-#### V2RayN / Nekoray / Clash / Hysteria2 Client
+#### V2RayN / Nekoray / Clash / Hiddify / Hysteria2 Client
 
 1. Select the desired protocol above
 2. Copy the subscription link
@@ -410,6 +388,6 @@ UQCU_NuO-7aKcYYiEsnkSd1rFpBtylB1C6upKWv7jY9r8ARe
 
 **⭐ If the project is useful, please give it a star!**
 
-*Last update: 06.02.2026 10:11:45*
+*Last update: 30.10.2026 13:35:07*
 
 </div>

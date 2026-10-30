@@ -2,101 +2,60 @@ name: REBORN CFG - Update Configs
 
 on:
   schedule:
-    # Запускается каждый час
-    - cron: '0 * * * *'
-  workflow_dispatch:  # Позволяет запускать вручную
-  push:
-    branches:
-      - main
+    # Запуск каждые 4 часа
+    - cron: '0 */4 * * *'
+  workflow_dispatch:  # Ручной запуск из GitHub Actions
+
+concurrency:
+  group: "update-configs"
+  cancel-in-progress: true
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 90  # Максимальное время выполнения (увеличено для обработки большого количества конфигов и определения стран)
+    timeout-minutes: 40
     permissions:
-      contents: write  # Необходимо для коммита и пуша
+      contents: write
     
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        fetch-depth: 0  # Полная история для правильного rebase
-      continue-on-error: false
+        fetch-depth: 1
       
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
         python-version: '3.11'
-      continue-on-error: false
         
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r source/requirements.txt
-      continue-on-error: false
       timeout-minutes: 5
         
     - name: Run Config Collector
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GITHUB_REPO_NAME: ${{ github.repository }}
         GITHUB_BRANCH: main
       run: |
         python source/config_collector.py
-      continue-on-error: false
-      timeout-minutes: 80  # Увеличено для обработки большого количества конфигов и определения стран
+      timeout-minutes: 30
       
-    - name: Commit and push if changed
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Commit and push changes
       run: |
-        set -e
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
         
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        # Добавляем все обновленные файлы подписок и README
+        git add -A hysteria2/ vless/ vmess/ shadowsocks/ trojan/ README.md
         
-        # Устанавливаем правильный remote URL
-        git remote set-url origin https://github.com/${{ github.repository }}.git
-        
-        # Получаем последние изменения из репозитория
-        git fetch origin main || true
-        
-        # Сбрасываем локальные изменения и синхронизируемся
-        git reset --hard origin/main || true
-        git pull origin main --rebase || git pull origin main || true
-        
-        # Добавляем все файлы из папок протоколов (с принудительным добавлением)
-        git add -f */subscription.txt */subscription-*.txt */best-*.txt || true
-        # Добавляем README и другие файлы
-        git add -f README.md source/config_collector.py source/requirements.txt || true
-        
-        # Коммитим только если есть изменения
+        # Проверяем наличие изменений перед коммитом
         if ! git diff --staged --quiet; then
-          # Вычисляем версию: 103=v1.0.3, 105=v1.0.5, 303=v3.0.3, 333=v3.3.3
-          # MAJOR = сотни, MINOR = десятки, PATCH = единицы
-          COMMIT_COUNT=$(git rev-list --count HEAD)
-          VERSION_MAJOR=$((COMMIT_COUNT / 100))
-          VERSION_MINOR=$(((COMMIT_COUNT % 100) / 10))
-          VERSION_PATCH=$((COMMIT_COUNT % 10))
-          VERSION="v${VERSION_MAJOR}.${VERSION_MINOR}.${VERSION_PATCH}"
-          git commit -m "616 ${VERSION}" || exit 0
-          
-          # Пробуем push несколько раз с задержкой
-          for i in 1 2 3; do
-            if git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main; then
-              echo "✅ Push успешно выполнен"
-              break
-            else
-              echo "⚠️ Попытка $i не удалась, пробуем синхронизироваться..."
-              git fetch origin main || true
-              git rebase origin/main || git reset --hard origin/main || true
-              sleep 2
-            fi
-          done
+          git commit -m "⚡ Auto update: $(date -u +'%Y-%m-%d %H:%M:%S UTC') [skip ci]"
+          git push origin main
+          echo "✅ Успешно обновлено и отправлено в репозиторий"
         else
-          echo "ℹ️ Нет изменений для коммита"
+          echo "ℹ️ Изменений нет, репозиторий уже содержит самые свежие данные"
         fi
-      continue-on-error: true
-      timeout-minutes: 5
-
