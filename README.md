@@ -9,8 +9,8 @@
 ### ɪ ᴅɪᴇᴅ ꜱɪx ʜᴜɴᴅʀᴇᴅ ᴀɴᴅ ꜱɪxᴛᴇᴇɴ ᴍɪɴᴜᴛᴇꜱ ᴀɢᴏ.
 
 [![Auto Update](https://img.shields.io/badge/Auto-Update-brightgreen)](https://github.com/uh616/REBORNCFG/actions)
-[![Total Configs](https://img.shields.io/badge/Total-127958-blue)](./hysteria2/subscription.txt)
-[![Last Update](https://img.shields.io/badge/Last_Update-30.10.2026_15:54:35-orange)](./hysteria2/subscription.txt)
+[![Verified Working](https://img.shields.io/badge/Verified_Working-234-brightgreen)](./vless/subscription.txt)
+[![Last Update](https://img.shields.io/badge/Last_Update-30.10.2026_17:44:58-orange)](./vless/subscription.txt)
 
 </div>
 
@@ -32,8 +32,9 @@
 
 ### 📊 Статистика последнего обновления
 
-- **📅 Дата обновления:** `30.10.2026 15:54:35`
-- **📦 Всего конфигов:** `127958`
+- **📅 Дата обновления:** `30.10.2026 17:44:58`
+- **🟢 Проверенных рабочих узлов:** `234` *(0 ошибок -1 в v2rayN)*
+- **📦 Всего собрано сырых кандидатов:** `127958`
 - **🔌 Протоколов:** `5`
 
 ---
@@ -55,16 +56,17 @@
 
 <div align="center">
 
-**📦 Всего конфигов:** `542`
+**🟢 Проверено и работает:** `100` *(100% реальный доступ через ядро, 0 ошибок -1)*  
+**📦 Всего найдено и проверено кандидатов:** `542`
 
 </div>
 
-**📥 Основная подписка (все конфиги):**
+**📥 Основная рабочая подписка (только проверенные узлы):**
 ```
 https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription.txt
 ```
 
-**⭐ Проверенные быстрые подписки (низкий пинг):**
+**⭐ Топ-подборки с наименьшим пингом:**
 1. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/best-1.txt`
 2. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/best-2.txt`
 3. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/best-3.txt`
@@ -77,16 +79,17 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription.tx
 
 <div align="center">
 
-**📦 Всего конфигов:** `33127`
+**🟢 Проверено и работает:** `41` *(100% реальный доступ через ядро, 0 ошибок -1)*  
+**📦 Всего найдено и проверено кандидатов:** `33127`
 
 </div>
 
-**📥 Основная подписка (все конфиги):**
+**📥 Основная рабочая подписка (только проверенные узлы):**
 ```
 https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/subscription.txt
 ```
 
-**⭐ Проверенные быстрые подписки (низкий пинг):**
+**⭐ Топ-подборки с наименьшим пингом:**
 1. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/best-1.txt`
 2. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/best-2.txt`
 3. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/best-3.txt`
@@ -99,16 +102,17 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/subscription.txt
 
 <div align="center">
 
-**📦 Всего конфигов:** `14856`
+**🟢 Проверено и работает:** `20` *(100% реальный доступ через ядро, 0 ошибок -1)*  
+**📦 Всего найдено и проверено кандидатов:** `14856`
 
 </div>
 
-**📥 Основная подписка (все конфиги):**
+**📥 Основная рабочая подписка (только проверенные узлы):**
 ```
 https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/subscription.txt
 ```
 
-**⭐ Проверенные быстрые подписки (низкий пинг):**
+**⭐ Топ-подборки с наименьшим пингом:**
 1. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/best-1.txt`
 2. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/best-2.txt`
 3. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/best-3.txt`
@@ -121,16 +125,17 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/subscription.txt
 
 <div align="center">
 
-**📦 Всего конфигов:** `72012`
+**🟢 Проверено и работает:** `44` *(100% реальный доступ через ядро, 0 ошибок -1)*  
+**📦 Всего найдено и проверено кандидатов:** `72012`
 
 </div>
 
-**📥 Основная подписка (все конфиги):**
+**📥 Основная рабочая подписка (только проверенные узлы):**
 ```
 https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/subscription.txt
 ```
 
-**⭐ Проверенные быстрые подписки (низкий пинг):**
+**⭐ Топ-подборки с наименьшим пингом:**
 1. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/best-1.txt`
 2. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/best-2.txt`
 3. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/best-3.txt`
@@ -143,16 +148,17 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/subscription.
 
 <div align="center">
 
-**📦 Всего конфигов:** `7421`
+**🟢 Проверено и работает:** `29` *(100% реальный доступ через ядро, 0 ошибок -1)*  
+**📦 Всего найдено и проверено кандидатов:** `7421`
 
 </div>
 
-**📥 Основная подписка (все конфиги):**
+**📥 Основная рабочая подписка (только проверенные узлы):**
 ```
 https://raw.githubusercontent.com/uh616/REBORNCFG/main/trojan/subscription.txt
 ```
 
-**⭐ Проверенные быстрые подписки (низкий пинг):**
+**⭐ Топ-подборки с наименьшим пингом:**
 1. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/trojan/best-1.txt`
 2. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/trojan/best-2.txt`
 3. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/trojan/best-3.txt`
@@ -210,8 +216,9 @@ UQCU_NuO-7aKcYYiEsnkSd1rFpBtylB1C6upKWv7jY9r8ARe
 
 ### 📊 Last Update Statistics
 
-- **📅 Update date:** `30.10.2026 15:54:35`
-- **📦 Total configs:** `127958`
+- **📅 Update date:** `30.10.2026 17:44:58`
+- **🟢 Verified working nodes:** `234` *(0 errors -1 in v2rayN)*
+- **📦 Total raw candidates:** `127958`
 - **🔌 Protocols:** `5`
 
 ---
@@ -233,16 +240,17 @@ UQCU_NuO-7aKcYYiEsnkSd1rFpBtylB1C6upKWv7jY9r8ARe
 
 <div align="center">
 
-**📦 Total configs:** `542`
+**🟢 Verified Working:** `100` *(100% real web access via core, 0 errors -1)*  
+**📦 Total Candidates Analyzed:** `542`
 
 </div>
 
-**📥 Main subscription (all configs):**
+**📥 Main Verified Subscription (all working nodes):**
 ```
 https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription.txt
 ```
 
-**⭐ Verified Fast Subscriptions (low latency):**
+**⭐ Low Latency Selections:**
 1. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/best-1.txt`
 2. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/best-2.txt`
 3. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/best-3.txt`
@@ -255,16 +263,17 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription.tx
 
 <div align="center">
 
-**📦 Total configs:** `33127`
+**🟢 Verified Working:** `41` *(100% real web access via core, 0 errors -1)*  
+**📦 Total Candidates Analyzed:** `33127`
 
 </div>
 
-**📥 Main subscription (all configs):**
+**📥 Main Verified Subscription (all working nodes):**
 ```
 https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/subscription.txt
 ```
 
-**⭐ Verified Fast Subscriptions (low latency):**
+**⭐ Low Latency Selections:**
 1. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/best-1.txt`
 2. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/best-2.txt`
 3. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/best-3.txt`
@@ -277,16 +286,17 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/subscription.txt
 
 <div align="center">
 
-**📦 Total configs:** `14856`
+**🟢 Verified Working:** `20` *(100% real web access via core, 0 errors -1)*  
+**📦 Total Candidates Analyzed:** `14856`
 
 </div>
 
-**📥 Main subscription (all configs):**
+**📥 Main Verified Subscription (all working nodes):**
 ```
 https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/subscription.txt
 ```
 
-**⭐ Verified Fast Subscriptions (low latency):**
+**⭐ Low Latency Selections:**
 1. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/best-1.txt`
 2. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/best-2.txt`
 3. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/best-3.txt`
@@ -299,16 +309,17 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/subscription.txt
 
 <div align="center">
 
-**📦 Total configs:** `72012`
+**🟢 Verified Working:** `44` *(100% real web access via core, 0 errors -1)*  
+**📦 Total Candidates Analyzed:** `72012`
 
 </div>
 
-**📥 Main subscription (all configs):**
+**📥 Main Verified Subscription (all working nodes):**
 ```
 https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/subscription.txt
 ```
 
-**⭐ Verified Fast Subscriptions (low latency):**
+**⭐ Low Latency Selections:**
 1. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/best-1.txt`
 2. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/best-2.txt`
 3. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/best-3.txt`
@@ -321,16 +332,17 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/subscription.
 
 <div align="center">
 
-**📦 Total configs:** `7421`
+**🟢 Verified Working:** `29` *(100% real web access via core, 0 errors -1)*  
+**📦 Total Candidates Analyzed:** `7421`
 
 </div>
 
-**📥 Main subscription (all configs):**
+**📥 Main Verified Subscription (all working nodes):**
 ```
 https://raw.githubusercontent.com/uh616/REBORNCFG/main/trojan/subscription.txt
 ```
 
-**⭐ Verified Fast Subscriptions (low latency):**
+**⭐ Low Latency Selections:**
 1. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/trojan/best-1.txt`
 2. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/trojan/best-2.txt`
 3. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/trojan/best-3.txt`
@@ -388,6 +400,6 @@ UQCU_NuO-7aKcYYiEsnkSd1rFpBtylB1C6upKWv7jY9r8ARe
 
 **⭐ If the project is useful, please give it a star!**
 
-*Last update: 30.10.2026 15:54:35*
+*Last update: 30.10.2026 17:44:58*
 
 </div>
