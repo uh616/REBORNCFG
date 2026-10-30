@@ -7,14 +7,33 @@ Hysteria2 | VLESS (Reality / gRPC / WS) | VMESS | Shadowsocks | Trojan
 from __future__ import annotations
 
 import concurrent.futures
+import subprocess
 import sys
 import os
 import time
 from typing import Optional
 
-# Добавляем путь к source чтобы импортировать config_collector
+# Добавляем путь к source
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import config_collector as cc
+
+# Экспресс-источники 2026 года (только проверенные быстрые выборки)
+EXPRESS_2026_SOURCES = [
+    "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/top100.txt",
+    "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/protocols/hysteria2.txt",
+    "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/hy2.txt",
+    "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/Tested.txt",
+    "https://raw.githubusercontent.com/3inker/v2ray-subscription/main/subs/all_ru.txt",
+]
+
+# Полные онлайн-базы
+FULL_ONLINE_SOURCES = [
+    "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/protocols/vless.txt",
+    "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/protocols/vmess.txt",
+    "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/protocols/shadowsocks.txt",
+    "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/protocols/trojan.txt",
+    "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt",
+]
 
 
 def detect_protocol(config_url: str) -> str:
@@ -34,13 +53,7 @@ def detect_protocol(config_url: str) -> str:
 
 
 def quick_check_config(config_url: str) -> tuple[Optional[str], Optional[float], str]:
-    """
-    Быстрая и точная проверка одного конфига:
-    - Извлекает host:port
-    - Для Hysteria2 проверяет TCP / UDP QUIC probe
-    - Для VLESS / VMESS / SS / Trojan проверяет быстрый TCP handshake
-    Возвращает (config_url, ping_ms, protocol) при успехе, иначе (None, None, protocol)
-    """
+    """Быстрая проверка соединения с замером пинга."""
     proto = detect_protocol(config_url)
     try:
         if proto == "hysteria2":
@@ -57,7 +70,6 @@ def quick_check_config(config_url: str) -> tuple[Optional[str], Optional[float],
                 return (None, None, proto)
             host, port = host_port
 
-        # Проверка соединения с замером пинга
         ping = cc.test_host_connectivity(host, port, protocol=proto, timeout=1.5)
         if ping is not None:
             return (config_url, ping, proto)
@@ -73,26 +85,78 @@ def main():
     print("=" * 64)
     print()
 
-    # Получаем URL подписки
+    # Меню выбора источника
     if len(sys.argv) >= 2:
-        subscription_url = sys.argv[1].strip()
+        user_input = sys.argv[1].strip()
     else:
-        subscription_url = input(
-            "Вставьте ссылку на подписку (или путь к .txt файлу):\n> "
-        ).strip()
+        print("Выберите действие (нажмите цифру или просто нажмите ENTER):")
+        print(" [1] 🔥 Экспресс-проверка лучших серверов 2026 (По умолчанию - просто ENTER)")
+        print(" [2] ⚡ Проверить лучшие VLESS Reality (из папки vless\\best-1.txt)")
+        print(" [3] 🚀 Проверить лучшие Hysteria2 (из папки hysteria2\\best-1.txt)")
+        print(" [4] 🌐 Полная глубокая проверка (10 000+ конфигов из сети)")
+        print(" [5] 📝 Вставить свою ссылку на подписку или путь к файлу")
+        print()
+        user_input = input("Ваш выбор > ").strip()
 
-    if not subscription_url:
-        print("❌ URL или путь к подписке не указан.")
-        return
+    data = ""
+    clean_choice = user_input.replace('\ufeff', '').strip()
 
-    # Загружаем данные
-    if os.path.isfile(subscription_url):
-        cc.log(f"📂 Чтение локального файла: {subscription_url}")
-        with open(subscription_url, "r", encoding="utf-8", errors="ignore") as f:
-            data = f.read()
+    # Обработка выбора
+    if not clean_choice or clean_choice == "1":
+        cc.log("🔥 Загрузка и экспресс-проверка топовых серверов 2026 года...")
+        chunks = []
+        for src in EXPRESS_2026_SOURCES:
+            txt = cc.fetch_data(src)
+            if txt:
+                chunks.append(txt)
+        data = "\n".join(chunks)
+
+    elif clean_choice == "2":
+        path = os.path.join("vless", "best-1.txt")
+        if os.path.isfile(path):
+            cc.log(f"📂 Чтение {path}...")
+            with open(path, "r", encoding="utf-8", errors="ignore") as f:
+                data = f.read()
+        else:
+            cc.log("⚠️ Локальный файл не найден, загружаю из сети...")
+            data = cc.fetch_data("https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/protocols/vless.txt")
+
+    elif clean_choice == "3":
+        path = os.path.join("hysteria2", "best-1.txt")
+        if os.path.isfile(path):
+            cc.log(f"📂 Чтение {path}...")
+            with open(path, "r", encoding="utf-8", errors="ignore") as f:
+                data = f.read()
+        else:
+            cc.log("⚠️ Локальный файл не найден, загружаю из сети...")
+            data = cc.fetch_data("https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/protocols/hysteria2.txt")
+
+    elif clean_choice == "4":
+        cc.log("🌐 Загрузка полных онлайн-баз 2026 года...")
+        chunks = []
+        for src in EXPRESS_2026_SOURCES + FULL_ONLINE_SOURCES:
+            txt = cc.fetch_data(src)
+            if txt:
+                chunks.append(txt)
+        data = "\n".join(chunks)
+
+    elif clean_choice == "5":
+        custom = input("Вставьте ссылку на подписку или путь к файлу:\n> ").strip()
+        if os.path.isfile(custom):
+            with open(custom, "r", encoding="utf-8", errors="ignore") as f:
+                data = f.read()
+        else:
+            data = cc.fetch_data(custom)
+
     else:
-        cc.log(f"🌐 Загрузка подписки: {subscription_url}")
-        data = cc.fetch_data(subscription_url)
+        # Если пользователь сразу вставил ссылку или путь к файлу
+        if os.path.isfile(user_input):
+            cc.log(f"📂 Чтение локального файла: {user_input}")
+            with open(user_input, "r", encoding="utf-8", errors="ignore") as f:
+                data = f.read()
+        else:
+            cc.log(f"🌐 Загрузка подписки: {user_input}")
+            data = cc.fetch_data(user_input)
 
     if not data:
         cc.log("❌ Не удалось загрузить данные (пустой ответ или ошибка сети).")
@@ -114,11 +178,11 @@ def main():
     )
 
     if not all_configs:
-        cc.log("⚠️ В подписке не обнаружено поддерживаемых VPN-конфигураций.")
+        cc.log("⚠️ В источниках не обнаружено подходящих конфигураций.")
         return
 
     cc.log(
-        f"📦 Найдено конфигов: Hysteria2={len(hysteria_configs)}, "
+        f"📦 Найдено серверов: Hysteria2={len(hysteria_configs)}, "
         f"VLESS={len(vless_configs)}, VMESS={len(vmess_configs)}, "
         f"Shadowsocks={len(ss_configs)}, Trojan={len(trojan_configs)} | Всего: {len(all_configs)}"
     )
@@ -126,11 +190,11 @@ def main():
     # Дедупликация
     unique_configs = cc.deduplicate_configs(all_configs, protocol=None, show_log=False)
     if len(unique_configs) != len(all_configs):
-        cc.log(f"🔍 После дедупликации: {len(unique_configs)} уникальных (удалено дубликатов: {len(all_configs) - len(unique_configs)})")
+        cc.log(f"🔍 После дедупликации: {len(unique_configs)} уникальных серверов")
 
     # Многопоточная проверка
     max_workers = min(cc.DEFAULT_MAX_WORKERS, 40)
-    cc.log(f"🧪 Запуск параллельной проверки ({max_workers} потоков)...")
+    cc.log(f"🧪 Запуск параллельной проверки доступности ({max_workers} потоков)...")
 
     working_results = []
     checked = 0
@@ -157,7 +221,7 @@ def main():
     cc.log(f"⏱️ Проверка завершена за {elapsed} сек! Живых серверов: {len(working_results)} / {len(unique_configs)}")
 
     if not working_results:
-        cc.log("❌ К сожалению, ни один сервер не ответил на проверку доступности.")
+        cc.log("❌ Ни один сервер не ответил.")
         return
 
     # Сортировка по минимальному пингу
@@ -178,15 +242,31 @@ def main():
     output_file = os.path.join(output_dir, "working-from-subscription.txt")
     cc.create_subscription_file(working_configs, output_file)
 
-    # Сохраняем также отдельно по протоколам
     for proto in stats_by_proto:
         proto_cfgs = [c for _, c, p in working_results if p == proto]
         if proto_cfgs:
             p_file = os.path.join(output_dir, f"working-{proto}.txt")
             cc.create_subscription_file(proto_cfgs, p_file)
 
-    cc.log(f"✅ Рабочие конфиги сохранены в: {output_file}")
-    cc.log("🎉 Готово! Скопируйте строки из файла и вставьте в v2rayN, NekoBox, Clash Verge или Hiddify.")
+    print()
+    print("=" * 64)
+    cc.log(f"✅ Рабочие серверы сохранены в: {output_file}")
+    print("=" * 64)
+    print()
+    print("⭐ ТОП-5 САМЫХ БЫСТРЫХ СЕРВЕРОВ (можно сразу копировать в клиент):")
+    print("-" * 64)
+    for i, (ping, cfg, proto) in enumerate(working_results[:5], 1):
+        print(f"[{i}] Пинг: {ping} ms | Протокол: {proto.upper()}")
+        print(f"    {cfg}")
+        print()
+    print("-" * 64)
+    cc.log("🎉 Готово! Все рабочие строки находятся в файле results\\working-from-subscription.txt")
+
+    # Автоматически открываем файл результатов в блокноте на Windows
+    try:
+        os.startfile(output_file)
+    except Exception:
+        pass
 
 
 if __name__ == "__main__":
