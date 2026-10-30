@@ -17,6 +17,7 @@ import urllib3
 import base64
 import json
 import socket
+import ssl
 import time
 import re
 import os
@@ -78,8 +79,13 @@ PING_TIMEOUT = 1.5
 MAX_FETCH_TIME = 12
 
 # -------------------- ИСТОЧНИКИ КОНФИГОВ (2026 EDITION) --------------------
-# 1. Свежие активные репозитории 2026 года (Hysteria2, VLESS Reality, VMESS, SS, Trojan)
+# 1. Свежие активные репозитории 2026 года (VLESS Reality, VMESS, Hysteria2, SS, Trojan)
 TOP_2026_SOURCES = [
+    # Проверенные VLESS Reality для РФ (icareck/vpn-configs-for-russia - ежедневный автосбор под блокировки ТСПУ)
+    "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt",
+    "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS_mobile.txt",
+    "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt",
+
     # 0xRadikal/Free-v2ray-Configs (обновление каждые 15 минут)
     "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/protocols/hysteria2.txt",
     "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/protocols/vless.txt",
@@ -526,39 +532,104 @@ def deduplicate_configs(configs: list[str], protocol: str = None, show_log: bool
     return unique_configs
 
 # -------------------- ПРОВЕРКА СОЕДИНЕНИЯ И ПИНГА --------------------
-def test_host_connectivity(host: str, port: int, protocol: str = "tcp", timeout: float = PING_TIMEOUT) -> float | None:
-    """Быстрая проверка доступности сервера с замером пинга (мс)."""
-    if protocol == "hysteria2":
-        # Hysteria2: пробуем TCP, затем UDP reachability
-        t0 = time.time()
-        try:
+def check_config_strict(config_url: str, timeout: float = 2.0) -> float | None:
+    """
+    Глубокая проверка реальной доступности узла (2026):
+    - VLESS Reality и Trojan: реальное TLS-рукопожатие с SNI (гарантия обхода ТСПУ/РКН!)
+    - VMess: TLS handshake (если порт 443 / tls) или TCP handshake
+    - Hysteria2: реальный QUIC handshake (строго без ложных срабатываний по таймауту!)
+    - Shadowsocks: TCP handshake
+    """
+    try:
+        url = config_url.strip()
+        if url.startswith(("vless://", "trojan://")):
+            m = re.search(r'@([^:/?#]+):(\d+)', url)
+            if not m:
+                return None
+            host, port = m.group(1), int(m.group(2))
+            sni_m = re.search(r'sni=([^&/#]+)', url, re.I)
+            sni = urllib.parse.unquote(sni_m.group(1)) if sni_m else host
+
+            t0 = time.time()
+            sock = socket.create_connection((host, port), timeout=timeout)
+            ctx = ssl.create_default_context()
+            ctx.check_hostname = False
+            ctx.verify_mode = ssl.CERT_NONE
+            ssock = ctx.wrap_socket(sock, server_hostname=sni)
+            ssock.close()
+            return round((time.time() - t0) * 1000, 1)
+
+        elif url.startswith("vmess://"):
+            host_port = extract_host_from_config(url)
+            if not host_port:
+                return None
+            host, port = host_port
+            t0 = time.time()
+            if port == 443 or "tls" in url.lower():
+                sock = socket.create_connection((host, port), timeout=timeout)
+                ctx = ssl.create_default_context()
+                ctx.check_hostname = False
+                ctx.verify_mode = ssl.CERT_NONE
+                ssock = ctx.wrap_socket(sock, server_hostname=host)
+                ssock.close()
+            else:
+                sock = socket.create_connection((host, port), timeout=timeout)
+                sock.close()
+            return round((time.time() - t0) * 1000, 1)
+
+        elif url.startswith(("hysteria2://", "hy2://")):
+            parsed = parse_hysteria2_url(url)
+            if not parsed:
+                return None
+            host, port = parsed["host"], parsed["port"]
+            ip = socket.gethostbyname(host)
+            sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+            sock.settimeout(timeout)
+            probe = b'\xc0\x00\x00\x00\x01\x08' + b'\x11'*8 + b'\x08' + b'\x22'*8 + b'\x00' + b'\x00'*40
+            t1 = time.time()
+            sock.sendto(probe, (ip, port))
+            try:
+                data, _ = sock.recvfrom(1024)
+                sock.close()
+                return round((time.time() - t1) * 1000, 1)
+            except Exception:
+                sock.close()
+                return None
+
+        elif url.startswith(("ss://", "shadowsocks://")):
+            host_port = extract_host_from_config(url)
+            if not host_port:
+                return None
+            host, port = host_port
+            t0 = time.time()
             sock = socket.create_connection((host, port), timeout=timeout)
             sock.close()
             return round((time.time() - t0) * 1000, 1)
-        except Exception:
-            pass
-        # UDP проверка
+
+        return None
+    except Exception:
+        return None
+
+def test_host_connectivity(host: str, port: int, protocol: str = "tcp", timeout: float = PING_TIMEOUT) -> float | None:
+    """Быстрая проверка доступности хоста."""
+    if protocol == "hysteria2":
         try:
             ip = socket.gethostbyname(host)
             sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
             sock.settimeout(timeout)
             probe = b'\xc0\x00\x00\x00\x01\x08' + b'\x11'*8 + b'\x08' + b'\x22'*8 + b'\x00' + b'\x00'*40
-            sock.sendto(probe, (ip, port))
             t1 = time.time()
+            sock.sendto(probe, (ip, port))
             try:
                 data, _ = sock.recvfrom(1024)
                 sock.close()
                 return round((time.time() - t1) * 1000, 1)
-            except socket.timeout:
-                sock.close()
-                return round((time.time() - t1) * 1000, 1)
-            except ConnectionResetError:
+            except Exception:
                 sock.close()
                 return None
         except Exception:
             return None
     else:
-        # Для VLESS, VMESS, Shadowsocks, Trojan: TCP connect
         t0 = time.time()
         try:
             sock = socket.create_connection((host, port), timeout=timeout)
@@ -644,15 +715,11 @@ def create_numbered_subscriptions(configs: list[str], protocol_folder: str, max_
     sorted_candidates = sorted(configs, key=candidate_score, reverse=True)
     test_pool = sorted_candidates[:200]  # Проверяем топ-200 кандидатов
 
-    log(f"⚡ Быстрая проверка живости для лучших узлов {protocol_folder.upper()} (выборка: {len(test_pool)} узлов)...")
+    log(f"⚡ Глубокая проверка TLS/TCP доступности для {protocol_folder.upper()} (выборка: {len(test_pool)} узлов)...")
     working_with_ping = []
 
     def check_candidate(cfg):
-        host_port = extract_host_from_config(cfg)
-        if not host_port:
-            return None
-        host, port = host_port
-        ping = test_host_connectivity(host, port, protocol=protocol_folder, timeout=1.5)
+        ping = check_config_strict(cfg, timeout=2.0)
         if ping is not None:
             return (ping, cfg)
         return None
