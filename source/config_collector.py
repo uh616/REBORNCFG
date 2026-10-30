@@ -105,10 +105,24 @@ TOP_2026_SOURCES = [
     
     # Barry-Far (крупнейший агрегатор)
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt",
+    "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Sub1.txt",
+    "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Sub2.txt",
+    "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Sub3.txt",
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Splitted-By-Protocol/vless.txt",
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Splitted-By-Protocol/vmess.txt",
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Splitted-By-Protocol/ss.txt",
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Splitted-By-Protocol/trojan.txt",
+    # MatinGhanbari - обновление каждые 15 минут, фильтрованные конфиги
+    "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/vless.txt",
+    "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/vmess.txt",
+    "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/trojan.txt",
+    "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/ss.txt",
+    "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/hysteria2.txt",
+    "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/super-sub.txt",
+    # mahdibland/ShadowsocksAggregator
+    "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity",
+    # freefq - свежие конфиги
+    "https://raw.githubusercontent.com/freefq/free/master/v2",
     
     # Telegram Scraper (Surfboardv2ray)
     "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/configtg.txt",
@@ -713,22 +727,32 @@ def create_numbered_subscriptions(configs: list[str], protocol_folder: str, max_
 
     # Сортируем кандидатов для проверки
     sorted_candidates = sorted(configs, key=candidate_score, reverse=True)
-    test_pool = sorted_candidates[:200]  # Проверяем топ-200 кандидатов
+    test_pool = sorted_candidates[:150]  # Проверяем топ-150 кандидатов
 
-    log(f"⚡ Глубокая проверка TLS/TCP доступности для {protocol_folder.upper()} (выборка: {len(test_pool)} узлов)...")
     working_with_ping = []
+    try:
+        import core_verifier as cv
+        can_deep_check = bool(cv.XRAY_BIN or cv.SINGBOX_BIN)
+    except Exception:
+        can_deep_check = False
 
-    def check_candidate(cfg):
-        ping = check_config_strict(cfg, timeout=2.0)
-        if ping is not None:
-            return (ping, cfg)
-        return None
+    if can_deep_check:
+        log(f"🔬 Проверка {protocol_folder.upper()} через реальное ядро Xray/sing-box (HTTP 204)...")
+        deep_res = cv.verify_configs_deep(test_pool, max_candidates=100)
+        working_with_ping = [(ping, cfg) for cfg, ping in deep_res]
+    else:
+        log(f"⚡ Быстрая TLS/TCP проверка для {protocol_folder.upper()} (выборка: {len(test_pool)} узлов)...")
+        def check_candidate(cfg):
+            ping = check_config_strict(cfg, timeout=2.0)
+            if ping is not None:
+                return (ping, cfg)
+            return None
 
-    with concurrent.futures.ThreadPoolExecutor(max_workers=40) as executor:
-        results = executor.map(check_candidate, test_pool)
-        for r in results:
-            if r is not None:
-                working_with_ping.append(r)
+        with concurrent.futures.ThreadPoolExecutor(max_workers=35) as executor:
+            results = executor.map(check_candidate, test_pool)
+            for r in results:
+                if r is not None:
+                    working_with_ping.append(r)
 
     # Сортируем по минимальному пингу
     working_with_ping.sort(key=lambda x: x[0])

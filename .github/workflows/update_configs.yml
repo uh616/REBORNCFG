@@ -34,6 +34,17 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r source/requirements.txt
       timeout-minutes: 5
+
+    - name: Install Xray and Sing-box cores for real verification
+      run: |
+        curl -sL https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip -o xray.zip
+        sudo unzip -q -o xray.zip xray -d /usr/local/bin
+        sudo chmod +x /usr/local/bin/xray
+        curl -sL https://github.com/SagerNet/sing-box/releases/download/v1.11.4/sing-box-1.11.4-linux-amd64.tar.gz | sudo tar -xz --strip-components=1 -C /usr/local/bin/ sing-box-1.11.4-linux-amd64/sing-box
+        sudo chmod +x /usr/local/bin/sing-box
+        xray version
+        sing-box version
+      timeout-minutes: 5
         
     - name: Run Config Collector
       env:
