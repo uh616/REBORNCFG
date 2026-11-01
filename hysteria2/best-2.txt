@@ -1,6 +1,5 @@
 hy2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?#JP
-hy2://367e233c-2f54-11ee-9ae1-f23c9164ca5d@39c981a4-tmm5c0-u093mf-1mina.hk3.hyhuawei.com:443?sni=39c981a4-tmm5c0-u093mf-1mina.hk3.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%7C%20HKG%20%2311
 hy2://23c82941-70f4-4381-90db-bd28e9a902e9@steel7.hadsvpn.com:443?#DE
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444?security=tls&alpn=h3&insecure=0&sni=bl1.nexfile.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-145
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.142:4444?security=tls&insecure=0&sni=bl1.nexfile.net#BY
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.143:4444?security=tls&insecure=0&sni=bl1.nexfile.net#%F0%9F%87%A7%F0%9F%87%BE204487%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444?security=tls&alpn=h3&insecure=0&sni=bl1.nexfile.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-143
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl2.nexfile.net:4444?security=tls&alpn=h3&insecure=0&sni=pl2.nexfile.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-900
