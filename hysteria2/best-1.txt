@@ -1,8 +1,5 @@
-hysteria2://63e1b9462d708b56d5d5a0267cffecdc@promo3.goonars.com:443?security=tls&alpn=h3&insecure=0&sni=promo3.goonars.com#%5BOpenRay%5D%20%F0%9F%8C%90XX-610
+hysteria2://63e1b9462d708b56d5d5a0267cffecdc@promo3.goonars.com:443?security=tls&alpn=h3&insecure=0&sni=promo3.goonars.com#%5BOpenRay%5D%20%F0%9F%8C%90XX-604
+hysteria2://44e76f8c-7362-11ec-bb74-f23c9164ca5d@64.32.13.230:443?sni=9507c324-tnhmo0-tohhws-zn8y.los.hyhuawei.com#4Jadi-4574b9476a
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?security=tls&insecure=0&sni=hy2.123266.xyz#@V2ray_Collector
-hy2://af7ddbb2-3567-11ec-bd7c-f23c913c8d2b@be688289-tmm5c0-u1q5od-t6fv.los.hyhuawei.com:443?sni=be688289-tmm5c0-u1q5od-t6fv.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA%20%237
-hysteria2://2a0fc918-9c61-451b-a9ad-e8f796e70f52@fi1.obxodvpn.us:443?security=tls&alpn=h3&insecure=0&sni=nl1.obxodvpn.us#%5BOpenRay%5D%20%F0%9F%8C%90XX-412
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl3.nexfile.net:4444?security=tls&alpn=h3&insecure=0&sni=pl3.nexfile.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-1034
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl2.nexfile.net:4444?security=tls&alpn=h3&insecure=0&sni=pl2.nexfile.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-863
-hysteria2://2bc6428196efb899f544d750bea0c06d@promo2.betust.net:443?security=tls&alpn=h3&insecure=0&sni=promo2.betust.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-1270
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@fl3.nexfile.net:4444?sni=fl3.nexfile.net&security=tls#%5BOpenRay%5D%20%F0%9F%8C%90XX-617
+hy2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443?sni=promo.betust.net#%F0%9F%90%9932%40oneclickvpnkeys
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.221.4:443?sni=3.76.221.4#%F0%9F%87%A9%F0%9F%87%AA204269%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FS
