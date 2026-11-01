@@ -1,10 +1,8 @@
+hysteria2://63e1b9462d708b56d5d5a0267cffecdc@promo3.goonars.com:443?security=tls&alpn=h3&insecure=0&sni=promo3.goonars.com#%5BOpenRay%5D%20%F0%9F%8C%90XX-610
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?security=tls&insecure=0&sni=hy2.123266.xyz#@V2ray_Collector
-hysteria2://63e1b9462d708b56d5d5a0267cffecdc@promo3.goonars.com:443?security=tls&alpn=h3&insecure=0&sni=promo3.goonars.com#%5BOpenRay%5D%20%F0%9F%8C%90XX-613
-hysteria2://1beb216e3f60aea9555dae60d219a5ca@152.69.231.175:50160?security=tls&sni=152-69-231-175.liao.kdns.fr#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7KR-74
-hy2://6da2c981-8c77-4340-bda3-93399b7aea26@195.63.146.10:443?sni=video.blog-forme.ru#%F0%9F%87%B3%F0%9F%87%B1NL-%F0%9F%9A%80%40VPNine1
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl2.nexfile.net:4444?security=tls&alpn=h3&insecure=0&sni=pl2.nexfile.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-866
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl3.nexfile.net:4444?security=tls&alpn=h3&insecure=0&sni=pl3.nexfile.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-1039
-hysteria2://2a0fc918-9c61-451b-a9ad-e8f796e70f52@fi1.obxodvpn.us:443?security=tls&alpn=h3&insecure=0&sni=nl1.obxodvpn.us#%5BOpenRay%5D%20%F0%9F%8C%90XX-411
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444?security=tls&alpn=h3&insecure=0&sni=bl1.nexfile.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-137
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@fl3.nexfile.net:4444?sni=fl3.nexfile.net&security=tls#%5BOpenRay%5D%20%F0%9F%8C%90XX-620
-hysteria2://2bc6428196efb899f544d750bea0c06d@promo2.betust.net:443?security=tls&alpn=h3&insecure=0&sni=promo2.betust.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-1276
+hy2://af7ddbb2-3567-11ec-bd7c-f23c913c8d2b@be688289-tmm5c0-u1q5od-t6fv.los.hyhuawei.com:443?sni=be688289-tmm5c0-u1q5od-t6fv.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA%20%237
+hysteria2://2a0fc918-9c61-451b-a9ad-e8f796e70f52@fi1.obxodvpn.us:443?security=tls&alpn=h3&insecure=0&sni=nl1.obxodvpn.us#%5BOpenRay%5D%20%F0%9F%8C%90XX-412
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl3.nexfile.net:4444?security=tls&alpn=h3&insecure=0&sni=pl3.nexfile.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-1034
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl2.nexfile.net:4444?security=tls&alpn=h3&insecure=0&sni=pl2.nexfile.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-863
+hysteria2://2bc6428196efb899f544d750bea0c06d@promo2.betust.net:443?security=tls&alpn=h3&insecure=0&sni=promo2.betust.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-1270
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@fl3.nexfile.net:4444?sni=fl3.nexfile.net&security=tls#%5BOpenRay%5D%20%F0%9F%8C%90XX-617
