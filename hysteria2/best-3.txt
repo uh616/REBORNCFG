@@ -1,5 +1,6 @@
-hysteria2://2bc6428196efb899f544d750bea0c06d@promo2.betust.net:443?security=tls&alpn=h3&insecure=0&sni=promo2.betust.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-1370
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444?security=tls&alpn=h3&insecure=0&sni=bl1.nexfile.net#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%2C%20Minsk%20%7C%20%5BBL%5D
-hy2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443?#SE
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@fl3.nexfile.net:4444?sni=fl3.nexfile.net&security=tls#%5BOpenRay%5D%20%F0%9F%8C%90XX-647
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@fl3.nexfile.net:4444?security=tls&sni=fl3.nexfile.net#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
 hy2://6da2c981-8c77-4340-bda3-93399b7aea26@store.blog-forme.ru:443?#NL
+hy2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443?#SE
+hysteria2://2bc6428196efb899f544d750bea0c06d@promo2.betust.net:443?security=tls&alpn=h3&insecure=0&sni=promo2.betust.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-1362
+hysteria2://69e41e64-a832-471a-b740-94577ca85520@forshynewh.duckdns.org:443?insecure=0&alpn=h3&sni=forshynewh.duckdns.org&obfs=&obfs-password=&security=tls#%F0%9F%87%A6%F0%9F%87%AA_AE_%E9%98%BF%E6%8B%89%E4%BC%AF%E8%81%94%E5%90%88%E9%85%8B%E9%95%BF%E5%9B%BD-%3E%F0%9F%87%AB%F0%9F%87%AE_FI_%E8%8A%AC%E5%85%B0_IPV4
+hy2://69e41e64-a832-471a-b740-94577ca85520@217.60.73.56:443?sni=forshynewh.duckdns.org#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA%20%237
