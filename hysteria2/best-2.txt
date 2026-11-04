@@ -1,5 +1,5 @@
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.142:4444?security=tls&amp;insecure=0&amp;sni=pl3.nexfile.net#%F0%9F%91%89%F0%9F%86%94%40Goodbaye_filtering%0A%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8%20%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%0A%C2%AE%EF%B8%8FServ.host%20Group%20%0A%F0%9F%85%BF%EF%B8%8Fping%3A128ms%0A%E2%9A%A1UDP%20Fast-Path%20%7C%20HYSTERIA2%20IPv4
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.149:4444?security=tls&amp;insecure=0&amp;sni=pl2.nexfile.net#%F0%9F%91%89%F0%9F%86%94%40Goodbaye_filtering%0A%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8%20%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%0A%C2%AE%EF%B8%8FServ.host%20Group%20%0A%F0%9F%85%BF%EF%B8%8Fping%3A128ms%0A%E2%9A%A1UDP%20Fast-Path%20%7C%20HYSTERIA2%20IPv4
-hy2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?#JP
-hy2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443?#SE
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl2.nexfile.net:4444?security=tls&alpn=h3&insecure=0&sni=pl2.nexfile.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-833
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.142:4444?security=tls&insecure=0&sni=bl1.nexfile.net#BY
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.144:4444?security=tls&sni=pl2.nexfile.net#%E7%BE%8E%E5%9B%BD+Xerox
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.143:4444/?sni=pl3.nexfile.net#%F0%9F%8D%AA61@oneclickvpnkeysvmess://059fda3e-5ca9-4fbd-dd89-01cc6d4bb5dd@54.37.131.126:80?encryption=auto&host=google.whatsapp.snapp.torob.basalam.hesanid8.ir.&path=%2F&security=none&type=ws#%F0%9F%8D%AA62@oneclickvpnkeys
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.147:4444?security=tls&insecure=0&sni=pl2.nexfile.net#@FXxNET⚡️
+hy2://23c82941-70f4-4381-90db-bd28e9a902e9@steel7.hadsvpn.com:443?#DE
