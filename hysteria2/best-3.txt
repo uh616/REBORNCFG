@@ -1,5 +1,5 @@
-hysteria2://f4b80b26-b6d4-49a6-a460-f50efb7a457c@hy.cardlist24.shop:443?sni=hy.cardlist24.shop&security=tls#%5BOpenRay%5D%20%F0%9F%8C%90XX-745
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@fl3.nexfile.net:4444?sni=fl3.nexfile.net&security=tls#%5BOpenRay%5D%20%F0%9F%8C%90XX-447
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-de-002.fastervpn.world:443?sni=127.0.0.1#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%20%7C%20DEU%2011
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl2.nexfile.net:4444?security=tls&alpn=h3&insecure=0&sni=pl2.nexfile.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-624
-hy2://https://xship.2fa.cat@starlink-ft.251313.xyz:443?sni=xship.top#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA%2011
+hysteria2://2bc6428196efb899f544d750bea0c06d@promo2.betust.net:443?security=tls&alpn=h3&insecure=0&sni=promo2.betust.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-931
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@fl3.nexfile.net:4444?sni=fl3.nexfile.net&security=tls#%5BOpenRay%5D%20%F0%9F%8C%90XX-436
+hysteria2://f4b80b26-b6d4-49a6-a460-f50efb7a457c@hy.cardlist24.shop:443?sni=hy.cardlist24.shop&security=tls#%5BOpenRay%5D%20%F0%9F%8C%90XX-726
+hy2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443?#SE
+hy2://https://xship.best@starlink-ft.251313.xyz:443?sni=xship.top#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA%205
