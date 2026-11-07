@@ -1,5 +1,5 @@
 hysteria2://63e1b9462d708b56d5d5a0267cffecdc@promo3.goonars.com:443?security=tls&alpn=h3&insecure=0&sni=promo3.goonars.com#@V2ray_Collector
-hy2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443?sni=promo.betust.net#%F0%9F%90%9932%40oneclickvpnkeys
-hy2://23c82941-70f4-4381-90db-bd28e9a902e9@steel7.hadsvpn.com:443?#US
 hy2://96ab5cd282733fd4c312a61f972f330a@45.32.10.7:443?sni=vp3.yysyy.online#JP
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444?security=tls&alpn=h3&insecure=0&sni=bl1.nexfile.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-81
+hy2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?#JP
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443#%F0%9F%87%AD%F0%9F%87%B0HK
+hysteria2://5c02ab88-7b9c-11ea-8fc9-f23c913c8d2b@03c584c0-tlsio0-tvvhcz-tl32.hk3.hyhuawei.com:443#%5BOpenRay%5D%20%F0%9F%8C%90XX-923
