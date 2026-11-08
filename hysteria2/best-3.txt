@@ -1,7 +1,6 @@
-hysteria2://f4b80b26-b6d4-49a6-a460-f50efb7a457c@hy.cardlist24.shop:443?sni=hy.cardlist24.shop&security=tls#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
-hy2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443?#SE
-hysteria2://2bc6428196efb899f544d750bea0c06d@promo2.betust.net:443?security=tls&alpn=h3&insecure=0&sni=promo2.betust.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-910
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.149:4444?security=tls&insecure=0&sni=pl2.nexfile.net#برای
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-de-002.fastervpn.world:443?sni=127.0.0.1#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%20%7C%20DEU%20%2311
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl3.nexfile.net:4444?security=tls&alpn=h3&insecure=0&sni=pl3.nexfile.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-721
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl2.nexfile.net:4444?security=tls&alpn=h3&insecure=0&sni=pl2.nexfile.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-599
+hysteria2://f4b80b26-b6d4-49a6-a460-f50efb7a457c@186.246.18.62:443?security=tls&sni=hy.cardlist24.shop#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
+hy2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?#JP
+hy2://96ab5cd282733fd4c312a61f972f330a@45.32.10.7:443?sni=vp3.yysyy.online#JP
+hy2://2e42c1ee-aaaa-11ec-bb74-f23c9164ca5d@a91af2af-tmm5c0-twnp5a-ahsb.hk3.hyhuawei.com:443?sni=a91af2af-tmm5c0-twnp5a-ahsb.hk3.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%7C%20HKG%20%2312
+hysteria2://5c02ab88-7b9c-11ea-8fc9-f23c913c8d2b@03c584c0-tlsio0-tvvhcz-tl32.hk3.hyhuawei.com:443#%5BOpenRay%5D%20%F0%9F%8C%90XX-923
+hy2://https://xship.top@starlink-ft.251313.xyz:443?sni=xship.top#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA%2010
