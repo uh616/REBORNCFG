@@ -1,9 +1,5 @@
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl2.nexfile.net:4444?security=tls&alpn=h3&insecure=0&sni=pl2.nexfile.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-618
-hysteria2://f4b80b26-b6d4-49a6-a460-f50efb7a457c@186.246.18.62:443?security=tls&sni=hy.cardlist24.shop#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl3.nexfile.net:4444?security=tls&alpn=h3&insecure=0&sni=pl3.nexfile.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-753
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444?security=tls&alpn=h3&insecure=0&sni=bl1.nexfile.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-85
-hysteria2://f4b80b26-b6d4-49a6-a460-f50efb7a457c@hy.cardlist24.shop:443?sni=hy.cardlist24.shop&security=tls#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.69.232.199:443?sni=vpn-de-002.fastervpn.world#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%20%7C%20DEU%20%2310
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@177.202.75.56:443?security=tls&amp;insecure=0&amp;sni=fi1.obxodvpn.us#%F0%9F%91%89%F0%9F%86%94%40Goodbaye_filtering%0A%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%AE%20%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF%0A%C2%AE%EF%B8%8FFzco%0A%F0%9F%85%BF%EF%B8%8Fping%3A128ms%0A%E2%9A%A1UDP%20Fast-Path%20%7C%20HYSTERIA2%20IPv4
-hysteria2://854e81e5-e3a9-42d3-b4e2-2bfef8558e8d@89.105.218.106:8443?sni=speedtestmark.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Enschede%20%7C%20%5BBL%5D
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-de-002.fastervpn.world:443?sni=vpn-de-002.fastervpn.world#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%20%7C%20DEU%20%236
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.101:4444?security=tls&insecure=0&sni=pl1.nexfile.net#PL
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.106:4444?security=tls&insecure=0&sni=pl2.nexfile.net#PL
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.149:4444?security=tls&insecure=0&sni=pl2.nexfile.net#PL
+hy2://https://xship.top@starlink-ft.251313.xyz:443?sni=xship.top#🌍207111
+hy2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443?#SE
