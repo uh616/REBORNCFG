@@ -1,10 +1,7 @@
-hysteria2://63e1b9462d708b56d5d5a0267cffecdc@promo3.goonars.com:443?security=tls&alpn=h3&insecure=0&sni=promo3.goonars.com#@V2ray_Collector
-hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443?security=tls&sni=promo.betust.net#@V2ray_Collector
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.101:4444?security=tls&insecure=0&sni=pl1.nexfile.net#PL
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.143:4444?security=tls&insecure=0&sni=bl1.nexfile.net#BY
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.142:4444?security=tls&insecure=0&sni=pl3.nexfile.net#PL
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.106:4444?security=tls&insecure=0&sni=pl2.nexfile.net#PL
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.149:4444?security=tls&insecure=0&sni=pl2.nexfile.net#PL
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl2.nexfile.net:4444?security=tls&alpn=h3&insecure=0&sni=pl2.nexfile.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-573
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl3.nexfile.net:4444?security=tls&alpn=h3&insecure=0&sni=pl3.nexfile.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-702
-hysteria2://2bc6428196efb899f544d750bea0c06d@promo2.betust.net:443?security=tls&alpn=h3&insecure=0&sni=promo2.betust.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-876
+hy2://146d567c-6335-4e63-a8aa-7ec068642440@fi1.obxodvpn.us:443/?sni=fi1.obxodvpn.us#🇺🇸
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@fi1.obxodvpn.us:443?sni=fi1.obxodvpn.us#%F0%9F%87%BA%F0%9F%87%B8%207%40exclavevpn
+hysteria2://f7d95364-607b-11ee-93af-f23c91369f2d@e49952e3-tmm5c0-tv7zgh-1ijh5.hk3.hyhuawei.com:443?sni=e49952e3-tmm5c0-tv7zgh-1ijh5.hk3.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
+hysteria2://40e084d6-0316-11f0-90e2-f23c913c8d2b@78bc7982-tmm5c0-u0aht1-1rz5s.hk3.hyhuawei.com:443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
+hysteria2://28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9@fc6ffc71-tmm5c0-ts3rye-mrtr.hk3.hyhuawei.com:443?sni=fc6ffc71-tmm5c0-ts3rye-mrtr.hk3.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
+hy2://23c82941-70f4-4381-90db-bd28e9a902e9@steel7.hadsvpn.com:443?#US
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.143:4444?security=tls&insecure=0&sni=bl1.nexfile.net#برای
