@@ -1,6 +1,7 @@
+hy2://146d567c-6335-4e63-a8aa-7ec068642440@fi1.obxodvpn.us:443?sni=fi1.obxodvpn.us#%F0%9F%87%BA%F0%9F%87%B8%207%40exclavevpn
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?sni=vpn-tw-002.fastervpn.world#%F0%9F%87%B9%F0%9F%87%BC173423%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FS
+hysteria2://2bc6428196efb899f544d750bea0c06d@promo2.betust.net:443?security=tls&alpn=h3&insecure=0&sni=promo2.betust.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-934
 hy2://146d567c-6335-4e63-a8aa-7ec068642440@fi1.obxodvpn.us:443/?sni=fi1.obxodvpn.us#US
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl2.nexfile.net:4444?security=tls&alpn=h3&insecure=0&sni=pl2.nexfile.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-604
-hysteria2://2bc6428196efb899f544d750bea0c06d@promo2.betust.net:443?security=tls&alpn=h3&insecure=0&sni=promo2.betust.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-924
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-de-002.fastervpn.world:443?sni=127.0.0.1#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%20%7C%20DEU%2011
+hy2://https://xship.top@starlink-ft.251313.xyz:443?sni=xship.top#🌍207160
 hy2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443?#SE
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.106:4444?security=tls&insecure=0&sni=pl2.nexfile.net#PL
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.147:4444?security=tls&insecure=0&sni=pl2.nexfile.net#PL
