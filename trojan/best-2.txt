@@ -1,3 +1,1 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.175:443?security=tls&sni=blog.browseseniorrolesandenhanceyourcareertoday.com#⚡
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.52:443?security=tls&sni=courses.browseseniorrolesandenhanceyourcareertoday.com#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.52-0084
-trojan://46d221fa-e9b4-748c-4eae-019a88e42991@191.44.112.170.sslip.io:443?security=tls&sni=orbylume.my.to&type=ws&path=/tvpn-trojan/bg&Host=orbylume.my.to#⚡
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.175:443?security=tls&type=tcp&sni=blog.browseseniorrolesandenhanceyourcareertoday.com#⚡
