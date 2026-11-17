@@ -1,7 +1,6 @@
 hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443?security=tls&sni=promo.betust.net#@V2ray_Collector
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444?insecure=0&obfs=&obfs-password=&security=tls&sni=bl1.nexfile.net#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@fi1.obxodvpn.us:443?sni=fi1.obxodvpn.us&path=%2f#US
-hysteria2://Yuike2026cat@43.130.234.128:8443?sni=43-130-234-128.sslip.io#JP
+hysteria2://769f34f0-1500-488f-b414-03bc90666502@95.143.196.97:443?security=tls&sni=se.mimowhat.online#@V2ray_Collector
 hy2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443?#SE
 hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@guide.blog-forme.ru:443?security=tls&sni=guide.blog-forme.ru&alpn=h3&insecure=0#%5BOpenRay%5D%20%F0%9F%8C%90XX-1072
-hysteria2://769f34f0-1500-488f-b414-03bc90666502@95.143.196.97:443?security=tls&sni=se.mimowhat.online#@V2ray_Collector
+hysteria2://Yuike2026cat@43.130.234.128:8443?security=tls&insecure=0&sni=43-130-234-128.sslip.io#🇯🇵217349
+hy2://https://xship.2fa.cat@starlink-ft.251313.xyz:443?sni=xship.top#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA%2013
