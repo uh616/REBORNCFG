@@ -1,6 +1,4 @@
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?sni=vpn-fr-001.fastervpn.world#%F0%9F%8D%84%E2%80%8D%F0%9F%9F%AB44%40oneclickvpnkeys
-hy2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443?#SE
-hysteria2://VR7zICGZd3cB34G0FxSYQra3@82.152.161.146:10086?security=tls&amp;insecure=0&amp;pinSHA256=384dfd7165377a28b00c8feefed52b59abd376248b99d06495349c2ab24586bc&amp;sni=pic.bstarstatic.com#
+hysteria2://VR7zICGZd3cB34G0FxSYQra3@82.152.161.146:10086?security=tls&insecure=0&pinSHA256=384dfd7165377a28b00c8feefed52b59abd376248b99d06495349c2ab24586bc&sni=pic.bstarstatic.com#%F0%9F%87%AD%F0%9F%87%B0217666%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.203.180:443?sni=vpn-de-002.fastervpn.world#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%20%7C%20DEU%20%232
 hysteria2://769f34f0-1500-488f-b414-03bc90666502@95.143.196.97:443?security=tls&sni=se.mimowhat.online#@V2ray_Collector
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@guide.blog-forme.ru:443?security=tls&sni=guide.blog-forme.ru&alpn=h3&insecure=0#%5BOpenRay%5D%20%F0%9F%8C%90XX-1099
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.221.4:443?sni=3.76.221.4#%F0%9F%87%A9%F0%9F%87%AA204269%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FS
+hy2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443?#SE
