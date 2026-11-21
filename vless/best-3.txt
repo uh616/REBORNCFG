@@ -1,2 +1,1 @@
-vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@153.52.143.118:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&security=reality&sid=027af64166562b09&sni=de2.fox-lisa.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
-vless://dcf1bc78-2922-4b77-a7b1-ea9c65354b49@brooded-plod.sports-streams.org:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&security=reality&sni=samoanews.com&type=tcp#4Mohsen-c8e7181b7a
+vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&security=reality&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&sid=d06d78e974491b6e#@V2ray_Collector
