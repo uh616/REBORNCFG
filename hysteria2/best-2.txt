@@ -1,9 +1,9 @@
-hy2://0b396097d052915ef304b40d2bda6a2d@179.254.94.184:8443?sni=www.bing.com#%E2%9A%99%EF%B8%8F75%40oneclickvpnkeys
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.194.242.173:443?sni=18.194.242.173#%F0%9F%87%A9%F0%9F%87%AA216807%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FL
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.153.65.67:443?sni=127.0.0.1#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%20%7C%20DEU%20%231
-hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443?security=tls&sni=promo.betust.net#@V2ray_Collector
-hy2://549766c3-fa5f-471e-8031-ffc1f8d5064f@212.34.137.105:443?sni=shorts.blog-forme.ru#%F0%9F%AA%856%40oneclickvpnkeys
+hy2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443?sni=promo.betust.net#%40OutlineReleasedKey%20%237
+hy2://23c82941-70f4-4381-90db-bd28e9a902e9@steel7.hadsvpn.com:443?#DE
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AD%F0%9F%87%B0205312%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FS
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?sni=https%3A#%F0%9F%A4%A996%40oneclickvpnkeys
+hy2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443?#SE
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.128.21:10444/?security=tls&sni=germany.cloudhouse1.ru#@OutlineReleasedKey
-hy2://gf1:gfhysteria2024@5.129.235.85:443?sni=www.linux.com#%F0%9F%87%B3%F0%9F%87%B1NL_2%7C1.6MB%2Fs
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444?insecure=0&obfs=&obfs-password=&security=tls&sni=bl1.nexfile.net#BY
-hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:6443?security=tls&insecure=0&sni=cloudehouse24.ru#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AADE-123
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444?insecure=0&obfs=&obfs-password=&security=tls&sni=bl1.nexfile.net#@OutlineReleasedKey
+hysteria2://9a9f167d-b461-466f-be50-f0ffd598a6f8@germanyafterpool.fun:443?sni=germanyafterpool.fun&security=tls#%5BOpenRay%5D%20%F0%9F%8C%90XX-827
+hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:6443?security=tls&insecure=0&sni=cloudehouse24.ru#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AADE-124
