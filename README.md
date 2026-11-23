@@ -9,8 +9,8 @@
 ### ɪ ᴅɪᴇᴅ ꜱɪx ʜᴜɴᴅʀᴇᴅ ᴀɴᴅ ꜱɪxᴛᴇᴇɴ ᴍɪɴᴜᴛᴇꜱ ᴀɢᴏ.
 
 [![Auto Update](https://img.shields.io/badge/Auto-Update-brightgreen)](https://github.com/uh616/REBORNCFG/actions)
-[![Verified Working](https://img.shields.io/badge/Verified_Working-86-brightgreen)](./vless/subscription.txt)
-[![Last Update](https://img.shields.io/badge/Last_Update-22.11.2026_23:18:34-orange)](./vless/subscription.txt)
+[![Verified Working](https://img.shields.io/badge/Verified_Working-82-brightgreen)](./vless/subscription.txt)
+[![Last Update](https://img.shields.io/badge/Last_Update-23.11.2026_04:33:01-orange)](./vless/subscription.txt)
 
 </div>
 
@@ -32,9 +32,9 @@
 
 ### 📊 Статистика последнего обновления
 
-- **📅 Дата обновления:** `22.11.2026 23:18:34`
-- **🟢 Проверенных рабочих узлов:** `86` *(0 ошибок -1 в v2rayN)*
-- **📦 Всего собрано сырых кандидатов:** `124489`
+- **📅 Дата обновления:** `23.11.2026 04:33:01`
+- **🟢 Проверенных рабочих узлов:** `82` *(0 ошибок -1 в v2rayN)*
+- **📦 Всего собрано сырых кандидатов:** `125445`
 - **🔌 Протоколов:** `5`
 
 ---
@@ -56,8 +56,8 @@
 
 <div align="center">
 
-**🟢 Проверено и работает:** `9` *(100% реальный доступ через ядро, 0 ошибок -1)*  
-**📦 Всего найдено и проверено кандидатов:** `638`
+**🟢 Проверено и работает:** `11` *(100% реальный доступ через ядро, 0 ошибок -1)*  
+**📦 Всего найдено и проверено кандидатов:** `612`
 
 </div>
 
@@ -79,8 +79,8 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription.tx
 
 <div align="center">
 
-**🟢 Проверено и работает:** `1` *(100% реальный доступ через ядро, 0 ошибок -1)*  
-**📦 Всего найдено и проверено кандидатов:** `32357`
+**🟢 Проверено и работает:** `5` *(100% реальный доступ через ядро, 0 ошибок -1)*  
+**📦 Всего найдено и проверено кандидатов:** `33196`
 
 </div>
 
@@ -102,8 +102,8 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/subscription.txt
 
 <div align="center">
 
-**🟢 Проверено и работает:** `14` *(100% реальный доступ через ядро, 0 ошибок -1)*  
-**📦 Всего найдено и проверено кандидатов:** `15449`
+**🟢 Проверено и работает:** `15` *(100% реальный доступ через ядро, 0 ошибок -1)*  
+**📦 Всего найдено и проверено кандидатов:** `15310`
 
 </div>
 
@@ -126,7 +126,7 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/subscription.txt
 <div align="center">
 
 **🟢 Проверено и работает:** `50` *(100% реальный доступ через ядро, 0 ошибок -1)*  
-**📦 Всего найдено и проверено кандидатов:** `69331`
+**📦 Всего найдено и проверено кандидатов:** `69526`
 
 </div>
 
@@ -148,8 +148,8 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/subscription.
 
 <div align="center">
 
-**🟢 Проверено и работает:** `12` *(100% реальный доступ через ядро, 0 ошибок -1)*  
-**📦 Всего найдено и проверено кандидатов:** `6714`
+**🟢 Проверено и работает:** `1` *(100% реальный доступ через ядро, 0 ошибок -1)*  
+**📦 Всего найдено и проверено кандидатов:** `6801`
 
 </div>
 
@@ -216,9 +216,9 @@ UQCU_NuO-7aKcYYiEsnkSd1rFpBtylB1C6upKWv7jY9r8ARe
 
 ### 📊 Last Update Statistics
 
-- **📅 Update date:** `22.11.2026 23:18:34`
-- **🟢 Verified working nodes:** `86` *(0 errors -1 in v2rayN)*
-- **📦 Total raw candidates:** `124489`
+- **📅 Update date:** `23.11.2026 04:33:01`
+- **🟢 Verified working nodes:** `82` *(0 errors -1 in v2rayN)*
+- **📦 Total raw candidates:** `125445`
 - **🔌 Protocols:** `5`
 
 ---
@@ -240,8 +240,8 @@ UQCU_NuO-7aKcYYiEsnkSd1rFpBtylB1C6upKWv7jY9r8ARe
 
 <div align="center">
 
-**🟢 Verified Working:** `9` *(100% real web access via core, 0 errors -1)*  
-**📦 Total Candidates Analyzed:** `638`
+**🟢 Verified Working:** `11` *(100% real web access via core, 0 errors -1)*  
+**📦 Total Candidates Analyzed:** `612`
 
 </div>
 
@@ -263,8 +263,8 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription.tx
 
 <div align="center">
 
-**🟢 Verified Working:** `1` *(100% real web access via core, 0 errors -1)*  
-**📦 Total Candidates Analyzed:** `32357`
+**🟢 Verified Working:** `5` *(100% real web access via core, 0 errors -1)*  
+**📦 Total Candidates Analyzed:** `33196`
 
 </div>
 
@@ -286,8 +286,8 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/subscription.txt
 
 <div align="center">
 
-**🟢 Verified Working:** `14` *(100% real web access via core, 0 errors -1)*  
-**📦 Total Candidates Analyzed:** `15449`
+**🟢 Verified Working:** `15` *(100% real web access via core, 0 errors -1)*  
+**📦 Total Candidates Analyzed:** `15310`
 
 </div>
 
@@ -310,7 +310,7 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/subscription.txt
 <div align="center">
 
 **🟢 Verified Working:** `50` *(100% real web access via core, 0 errors -1)*  
-**📦 Total Candidates Analyzed:** `69331`
+**📦 Total Candidates Analyzed:** `69526`
 
 </div>
 
@@ -332,8 +332,8 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/subscription.
 
 <div align="center">
 
-**🟢 Verified Working:** `12` *(100% real web access via core, 0 errors -1)*  
-**📦 Total Candidates Analyzed:** `6714`
+**🟢 Verified Working:** `1` *(100% real web access via core, 0 errors -1)*  
+**📦 Total Candidates Analyzed:** `6801`
 
 </div>
 
@@ -400,6 +400,6 @@ UQCU_NuO-7aKcYYiEsnkSd1rFpBtylB1C6upKWv7jY9r8ARe
 
 **⭐ If the project is useful, please give it a star!**
 
-*Last update: 22.11.2026 23:18:34*
+*Last update: 23.11.2026 04:33:01*
 
 </div>
