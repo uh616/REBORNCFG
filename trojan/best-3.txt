@@ -1,10 +1,1 @@
-trojan://lhxmbdock4mu5lfx@144.225.65.181:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=/&security=reality&pbk=4Ve_UMg6HVoF4Iy8eraMOuSIwecQ4jJmjlA0aNHGZV4&fp=chrome&spx=/q9AefYkPyQ6yh9v&type=xhttp&sni=www.sony.com&sid=ff#@GozargahAzad|🇺🇸
-trojan://aQRciry3QFc6pQpyb2NhH7l5Mc9SPJRT@176.65.151.85:8443?security=reality&pbk=0wk-oMUSX2Qk044K1dpEac4X3MX-TrGzUaZi66zkDXI&headerType=&fp=chrome&type=tcp&sni=www.yahoo.com&sid=37829ba2#NL
-trojan://Masir_Sefid@84.234.31.249:443?security=reality&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#CH
-trojan://SoftNetConnect@185.204.169.164:8443?security=reality&pbk=5FGOl7H4K-VOCZ48lIoizknLgL3Vn5FADs8bsCXKPW4&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=ca14e14437#🇩🇪
-trojan://SoftNetConnect@178.104.213.121:8443?mode=auto&path=/&security=reality&pbk=OzvPvPpRJue41xrg3i2ye6I_NUWxpiRmJwysxM_OhBE&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=a9633ad7276e#𝐍𝐄𝐖
-trojan://SoftNetConnect@194.5.192.89:443?mode=auto&path=/&security=reality&pbk=pzGahS_T6emOUchRxzUgeL-2CEg2cuJs0-AxYtaK-ic&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=d591#کانال
-trojan://SoftNetConnect@45.151.102.87:8443?security=reality&pbk=5FGOl7H4K-VOCZ48lIoizknLgL3Vn5FADs8bsCXKPW4&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=ca14e14437#کانال
-trojan://SoftNetConnect@130.185.121.229:8443?security=reality&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=c7#🇩🇪
-trojan://SoftNetConnect@185.204.169.164:443/?type=xhttp&sni=www.yahoo.com&fp=chrome&security=reality&pbk=pzGahS_T6emOUchRxzUgeL-2CEg2cuJs0-AxYtaK-ic&sid=d591#%40SONIC_2524%20%285%29
-trojan://83a8fde4-62d6-41ae-85a8-0cef7504027c@ir.g-boot.ir:443?security=reality&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=9a597f16c2171bab#4Kian-461c84ce4e
+trojan://963A4918-A630-29DA-A873-093CDF8AD784@bitter-math-4364.vpnetwork3567.workers.dev:443?security=tls&sni=bitter-math-4364.vpnetwork3567.workers.dev&alpn=http%2F1.1&type=ws&host=bitter-math-4364.vpnetwork3567.workers.dev&path=%2F&fp=firefox#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2C%20Vinnytsia%20%7C%20%5BBL%5D
